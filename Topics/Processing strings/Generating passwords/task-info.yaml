@@ -12,6 +12,10 @@ files:
       }
     learner_created: false
 feedback_link: https://hyperskill.org/learn/step/3789#comment
-status: Unchecked
+status: Failed
+feedback:
+  message: |
+    Failed test #5 of 17. Your password has repeated symbol 'A'
+  time: "Sat, 23 Mar 2024 17:24:46 UTC"
 record: -1
 submission_language: java17

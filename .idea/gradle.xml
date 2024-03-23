@@ -20,6 +20,7 @@
             <option value="$PROJECT_DIR$/Topics/Processing strings/Determine the value" />
             <option value="$PROJECT_DIR$/Topics/Processing strings/Finding the longest word in a sentence" />
             <option value="$PROJECT_DIR$/Topics/Processing strings/Generating passwords" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Move the first N characters" />
             <option value="$PROJECT_DIR$/Topics/Processing strings/Theory" />
             <option value="$PROJECT_DIR$/util" />
           </set>
