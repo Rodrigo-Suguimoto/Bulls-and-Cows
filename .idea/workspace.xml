@@ -5,13 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ac3c22bf-6367-487b-ab67-1098457e043b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/Move the first N characters/Bulls_and_Cows.Topics-Processing_strings-Move_the_first_N_characters.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/Move the first N characters/Bulls_and_Cows.Topics-Processing_strings-Move_the_first_N_characters.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/Move the first N characters/Bulls_and_Cows.Topics-Processing_strings-Move_the_first_N_characters.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Processing strings/Move the first N characters/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Processing strings/Move the first N characters/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Processing strings/Move the first N characters/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Processing strings/Move the first N characters/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/Complete the code to reverse a string/Bulls_and_Cows.Topics-Processing_strings-Complete_the_code_to_reverse_a_string.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/Complete the code to reverse a string/Bulls_and_Cows.Topics-Processing_strings-Complete_the_code_to_reverse_a_string.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/Complete the code to reverse a string/Bulls_and_Cows.Topics-Processing_strings-Complete_the_code_to_reverse_a_string.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/Number of occurrences/Bulls_and_Cows.Topics-Processing_strings-Number_of_occurrences.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/Number of occurrences/Bulls_and_Cows.Topics-Processing_strings-Number_of_occurrences.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/Number of occurrences/Bulls_and_Cows.Topics-Processing_strings-Number_of_occurrences.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Processing strings/Complete the code to reverse a string/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Processing strings/Complete the code to reverse a string/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Processing strings/Complete the code to reverse a string/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Processing strings/Complete the code to reverse a string/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Processing strings/Number of occurrences/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Processing strings/Number of occurrences/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Processing strings/Number of occurrences/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Processing strings/Number of occurrences/task.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/checksums/checksums.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/checksums/sha1-checksums.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.bin" afterDir="false" />
@@ -22,6 +29,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Processing strings/Generating passwords/out/production/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Processing strings/Generating passwords/out/production/classes/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Topics/Processing strings/Generating passwords/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Processing strings/Generating passwords/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Topics/Processing strings/Generating passwords/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Processing strings/Generating passwords/task-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Topics/Processing strings/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Processing strings/lesson-info.yaml" afterDir="false" />
@@ -43,9 +51,12 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Bulls and Cows/task/src/bullscows/Main.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Bulls and Cows/task/test/BullsCowsTest.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Processing strings/Complete the code to reverse a string/src/Task.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Processing strings/Determine the value/src/Task.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Processing strings/Finding the longest word in a sentence/src/Main.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Processing strings/Generating passwords/src/Main.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Processing strings/Move the first N characters/src/Main.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Processing strings/Number of occurrences/src/Main.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Processing strings/Theory/src/Task.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{

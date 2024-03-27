@@ -6,7 +6,6 @@ public class Main {
         String[] passwordRequirements = scanner.nextLine().split(" ");
         StringBuilder password = new StringBuilder();
 
-        System.out.println(password.chars());
         int numberOfUppercaseLetters = Integer.parseInt(passwordRequirements[0]);
         addUppercaseLetters(password, numberOfUppercaseLetters);
 
@@ -15,16 +14,27 @@ public class Main {
         char lowercaseLetter = 'a';
         while (j < numberOfLowercaseLetters) {
             password.append(lowercaseLetter);
-            lowercaseLetter++;
+
+            if (lowercaseLetter == 'z') {
+                lowercaseLetter = 'a';
+            } else {
+                lowercaseLetter++;
+            }
+
             j++;
         }
 
         int numberOfDigits = Integer.parseInt(passwordRequirements[2]);
         int k = 0;
-        int digit = 1;
+        int digit = 0;
         while (k < numberOfDigits) {
             password.append(digit);
-            digit++;
+
+            if (digit == 9) {
+                digit = 0;
+            } else {
+                digit++;
+            }
             k++;
         }
 
@@ -39,13 +49,24 @@ public class Main {
     public static void addUppercaseLetters(StringBuilder password, int numberOfUppercaseLetters) {
         int i = 0;
         char uppercaseLetter = 'A';
+        char lastCharacterOfPassword = ' ';
         while (i < numberOfUppercaseLetters) {
-            if (uppercaseLetter == password.charAt(password.length() - 1)) {
-                uppercaseLetter++;
+            if (password.length() > 0) {
+                lastCharacterOfPassword = password.charAt(password.length() - 1);
             }
 
-            password.append(uppercaseLetter);
-            uppercaseLetter++;
+            if (lastCharacterOfPassword == uppercaseLetter) {
+                uppercaseLetter++;
+                password.append(uppercaseLetter);
+            } else {
+                password.append(uppercaseLetter);
+            }
+
+            if (uppercaseLetter == 'Z') {
+                uppercaseLetter = 'A';
+            } else {
+                uppercaseLetter++;
+            }
             i++;
         }
     }
