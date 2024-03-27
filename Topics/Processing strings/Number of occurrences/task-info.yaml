@@ -3,18 +3,16 @@ files:
   - name: src/Main.java
     visible: true
     text: |-
-      import java.util.*;
-      
-      public class Main {
+      class Main {
           public static void main(String[] args) {
-              // write your code here
+              // put your code here
           }
       }
     learner_created: false
-feedback_link: https://hyperskill.org/learn/step/3789#comment
+feedback_link: https://hyperskill.org/learn/step/2288#comment
 status: Solved
 feedback:
   message: <html>Correct solution</html>
-  time: "Tue, 26 Mar 2024 10:37:00 UTC"
+  time: "Tue, 26 Mar 2024 10:53:12 UTC"
 record: -1
 submission_language: java17
