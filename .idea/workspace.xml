@@ -5,34 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ac3c22bf-6367-487b-ab67-1098457e043b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/Complete the code to reverse a string/Bulls_and_Cows.Topics-Processing_strings-Complete_the_code_to_reverse_a_string.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/Complete the code to reverse a string/Bulls_and_Cows.Topics-Processing_strings-Complete_the_code_to_reverse_a_string.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/Complete the code to reverse a string/Bulls_and_Cows.Topics-Processing_strings-Complete_the_code_to_reverse_a_string.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/Number of occurrences/Bulls_and_Cows.Topics-Processing_strings-Number_of_occurrences.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/Number of occurrences/Bulls_and_Cows.Topics-Processing_strings-Number_of_occurrences.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/Number of occurrences/Bulls_and_Cows.Topics-Processing_strings-Number_of_occurrences.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Processing strings/Complete the code to reverse a string/src/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Processing strings/Complete the code to reverse a string/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Processing strings/Complete the code to reverse a string/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Processing strings/Complete the code to reverse a string/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Processing strings/Number of occurrences/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Processing strings/Number of occurrences/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Processing strings/Number of occurrences/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Processing strings/Number of occurrences/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bulls and Cows/task/build/tmp/test/jar_extract_14279620876932882127_tmp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/checksums/checksums.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/checksums/sha1-checksums.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Processing strings/Generating passwords/out/production/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Processing strings/Generating passwords/out/production/classes/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Processing strings/Generating passwords/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Processing strings/Generating passwords/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Processing strings/Generating passwords/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Processing strings/Generating passwords/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Processing strings/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Processing strings/lesson-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bulls and Cows/Grader/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Bulls and Cows/Grader/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bulls and Cows/task/build/classes/java/main/bullscows/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Bulls and Cows/task/build/classes/java/main/bullscows/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bulls and Cows/task/build/classes/java/test/BullsCowsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Bulls and Cows/task/build/classes/java/test/BullsCowsTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bulls and Cows/task/build/reports/tests/test/classes/BullsCowsTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bulls and Cows/task/build/reports/tests/test/classes/BullsCowsTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bulls and Cows/task/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bulls and Cows/task/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bulls and Cows/task/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bulls and Cows/task/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bulls and Cows/task/build/test-results/test/TEST-BullsCowsTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Bulls and Cows/task/build/test-results/test/TEST-BullsCowsTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bulls and Cows/task/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Bulls and Cows/task/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bulls and Cows/task/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/Bulls and Cows/task/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bulls and Cows/task/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Bulls and Cows/task/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bulls and Cows/task/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Bulls and Cows/task/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bulls and Cows/task/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Bulls and Cows/task/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bulls and Cows/task/out/production/classes/bullscows/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Bulls and Cows/task/out/production/classes/bullscows/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bulls and Cows/task/src/bullscows/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Bulls and Cows/task/src/bullscows/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/course-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,17 +64,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Edu.Yaml.Migrate&quot;: &quot;true&quot;,
-    &quot;Gradle.Tests in 'Bulls_and_Cows.Bulls_and_Cows-task.test'.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Edu.Yaml.Migrate": "true",
+    "Gradle.Tests in 'Bulls_and_Cows.Bulls_and_Cows-task.test'.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "second-stage",
+    "kotlin-language-version-configured": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="Bulls and Cows" />

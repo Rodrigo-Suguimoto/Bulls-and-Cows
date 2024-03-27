@@ -1,44 +1,47 @@
 package bullscows;
 
+import java.util.Scanner;
+
 public class Main {
     public static void main(String[] args) {
-        System.out.println("The secret code is prepared: ****.");
+        String secretCode = createTheSecretCode();
+        Scanner scanner = new Scanner(System.in);
+        String userGuess = scanner.nextLine();
+        int bulls = 0;
+        int cows = 0;
 
-        System.out.println();
-        System.out.println("Turn 1. Answer:");
-        System.out.println("1234");
-        System.out.println("Grade: 1 cow.");
+        for (int i = 0; i < userGuess.length(); i++) {
+            char digit = userGuess.charAt(i);
 
-        System.out.println();
-        System.out.println("Turn 2. Answer:");
-        System.out.println("5678");
-        System.out.println("Grade: 1 cow.");
+            if (secretCode.indexOf(digit, i) == i) {
+                bulls++;
+            } else if (secretCode.indexOf(digit) != -1) {
+                cows++;
+            }
+        }
 
-        System.out.println();
-        System.out.println("Turn 3. Answer:");
-        System.out.println("9012");
-        System.out.println("Grade: 1 bull and 1 cow.");
+        printGrade(bulls, cows, secretCode);
+    }
 
-        System.out.println();
-        System.out.println("Turn 4. Answer:");
-        System.out.println("9087");
-        System.out.println("Grade: 1 bull and 1 cow.");
+    public static String createTheSecretCode() {
+        String firstDigit = createRandomDigit();
+        String secondDigit = createRandomDigit();
+        String thirdDigit = createRandomDigit();
+        String fourthDigit = createRandomDigit();
 
-        System.out.println();
-        System.out.println("Turn 5. Answer:");
-        System.out.println("1087");
-        System.out.println("Grade: 1 cow.");
+        return firstDigit + secondDigit + thirdDigit + fourthDigit;
+    }
 
-        System.out.println();
-        System.out.println("Turn 6. Answer:");
-        System.out.println("9205");
-        System.out.println("Grade: 3 bulls.");
+    public static String createRandomDigit() {
+        int randomDigit = (int) (Math.random() * 10);
+        return String.valueOf(randomDigit);
+    }
 
-        System.out.println();
-        System.out.println("Turn 7. Answer:");
-        System.out.println("9305");
-        System.out.println("Grade: 4 bulls.");
-        System.out.println("Congrats! The secret code is 9305.");
-
+    public static void printGrade(int bulls, int cows, String secretCode) {
+        if (bulls == 0 && cows == 0) {
+            System.out.printf("Grade: None. The secret code is %s.", secretCode);
+        } else {
+            System.out.printf("Grade: %d bull(s) and %d cow(s). The secret code is %s.", bulls, cows, secretCode);
+        }
     }
 }
