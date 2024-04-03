@@ -7,20 +7,8 @@ public class Main {
         String secretCode = createTheSecretCode();
         Scanner scanner = new Scanner(System.in);
         String userGuess = scanner.nextLine();
-        int bulls = 0;
-        int cows = 0;
 
-        for (int i = 0; i < userGuess.length(); i++) {
-            char digit = userGuess.charAt(i);
-
-            if (secretCode.indexOf(digit, i) == i) {
-                bulls++;
-            } else if (secretCode.indexOf(digit) != -1) {
-                cows++;
-            }
-        }
-
-        printGrade(bulls, cows, secretCode);
+        printGrade(userGuess, secretCode);
     }
 
     public static String createTheSecretCode() {
@@ -37,7 +25,20 @@ public class Main {
         return String.valueOf(randomDigit);
     }
 
-    public static void printGrade(int bulls, int cows, String secretCode) {
+    public static void printGrade(String userGuess, String secretCode) {
+        int bulls = 0;
+        int cows = 0;
+
+        for (int i = 0; i < userGuess.length(); i++) {
+            char digit = userGuess.charAt(i);
+
+            if (secretCode.indexOf(digit, i) == i) {
+                bulls++;
+            } else if (secretCode.indexOf(digit) != -1) {
+                cows++;
+            }
+        }
+
         if (bulls == 0 && cows == 0) {
             System.out.printf("Grade: None. The secret code is %s.", secretCode);
         } else {
