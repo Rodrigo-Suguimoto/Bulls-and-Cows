@@ -4,20 +4,42 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        String secretCode = createTheSecretCode();
         Scanner scanner = new Scanner(System.in);
-        String userGuess = scanner.nextLine();
+        int length = scanner.nextInt();
+        String secretCode = createTheSecretCode(length);
 
-        printGrade(userGuess, secretCode);
+        if (secretCode.equals("Error")) {
+            System.out.printf("Error: can't generate a secret number with a length of %d because there aren't enough unique digits.", length);
+        } else {
+            System.out.printf("The random secret number is %s", secretCode);
+        }
+
+//        String userGuess = scanner.nextLine();
+
+//        printGrade(userGuess, secretCode);
     }
+    public static String createTheSecretCode(int length) {
+        if (length > 10) {
+            return "Error";
+        }
 
-    public static String createTheSecretCode() {
-        String firstDigit = createRandomDigit();
-        String secondDigit = createRandomDigit();
-        String thirdDigit = createRandomDigit();
-        String fourthDigit = createRandomDigit();
+        StringBuilder secretCode = new StringBuilder();
 
-        return firstDigit + secondDigit + thirdDigit + fourthDigit;
+        // First Digit can't be 0
+        String firstDigit;
+        do {
+            firstDigit = createRandomDigit();
+        } while (firstDigit.equals("0"));
+        secretCode.append(firstDigit);
+
+        while (secretCode.length() < length) {
+            String randomDigit = createRandomDigit();
+            if (secretCode.indexOf(randomDigit) == -1) {
+                secretCode.append(randomDigit);
+            }
+        }
+
+        return secretCode.toString();
     }
 
     public static String createRandomDigit() {
