@@ -1,19 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="BullsCowsTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-03-27T11:56:00" hostname="MacBook-Pro.local" time="0.133">
+<testsuite name="BullsCowsTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-04-04T11:53:14" hostname="MacBook-Pro.local" time="0.149">
   <properties/>
-  <testcase name="start" classname="BullsCowsTest" time="0.133"/>
+  <testcase name="start" classname="BullsCowsTest" time="0.149"/>
   <system-out><![CDATA[?[1;31m
 Start test 1?[0m
-The secret code: 5185
-> 3601
+> 4
 ?[1;31m
 Start test 2?[0m
-The secret code: 4807
-> 5185
+> 1
 ?[1;31m
 Start test 3?[0m
-The secret code: 5256
-> 1235
+> 11
+?[1;31m
+Start test 4?[0m
+> 6
+?[1;31m
+Start test 5?[0m
+> 3
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

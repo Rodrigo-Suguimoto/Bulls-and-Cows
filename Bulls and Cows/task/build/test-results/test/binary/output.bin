@@ -1,12 +1,15 @@
 [1;31m
 Start test 1[0m
-The secret code: 5185
-> 3601
+> 4
 [1;31m
 Start test 2[0m
-The secret code: 4807
-> 5185
+> 1
 [1;31m
 Start test 3[0m
-The secret code: 5256
-> 1235
+> 11
+[1;31m
+Start test 4[0m
+> 6
+[1;31m
+Start test 5[0m
+> 3
