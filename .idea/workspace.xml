@@ -5,8 +5,70 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ac3c22bf-6367-487b-ab67-1098457e043b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Bulls and Cows/task/Bulls_and_Cows.Bulls_and_Cows-task.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Bulls and Cows/task/Bulls_and_Cows.Bulls_and_Cows-task.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Bulls and Cows/task/Bulls_and_Cows.Bulls_and_Cows-task.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Bulls and Cows/task/build/classes/java/Bulls_and_Cows.Bulls_and_Cows-task-build-classes-java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Bulls and Cows/task/build/classes/java/Bulls_and_Cows.Bulls_and_Cows-task-build-classes-java.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Bulls and Cows/task/build/classes/java/Bulls_and_Cows.Bulls_and_Cows-task-build-classes-java.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Bulls and Cows/task/build/generated/sources/annotationProcessor/java/Bulls_and_Cows.Bulls_and_Cows-task-build-generated-sources-annotationProcessor-java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Bulls and Cows/task/build/generated/sources/annotationProcessor/java/Bulls_and_Cows.Bulls_and_Cows-task-build-generated-sources-annotationProcessor-java.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Bulls and Cows/task/build/generated/sources/annotationProcessor/java/Bulls_and_Cows.Bulls_and_Cows-task-build-generated-sources-annotationProcessor-java.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Bulls and Cows/task/build/generated/sources/headers/java/Bulls_and_Cows.Bulls_and_Cows-task-build-generated-sources-headers-java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Bulls and Cows/task/build/generated/sources/headers/java/Bulls_and_Cows.Bulls_and_Cows-task-build-generated-sources-headers-java.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Bulls and Cows/task/build/generated/sources/headers/java/Bulls_and_Cows.Bulls_and_Cows-task-build-generated-sources-headers-java.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Bulls and Cows/task/build/reports/tests/Bulls_and_Cows.Bulls_and_Cows-task-build-reports-tests.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Bulls and Cows/task/build/reports/tests/Bulls_and_Cows.Bulls_and_Cows-task-build-reports-tests.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Bulls and Cows/task/build/reports/tests/Bulls_and_Cows.Bulls_and_Cows-task-build-reports-tests.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Bulls and Cows/task/build/test-results/Bulls_and_Cows.Bulls_and_Cows-task-build-test-results.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Bulls and Cows/task/build/test-results/Bulls_and_Cows.Bulls_and_Cows-task-build-test-results.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Bulls and Cows/task/build/test-results/Bulls_and_Cows.Bulls_and_Cows-task-build-test-results.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Bulls and Cows/task/build/tmp/Bulls_and_Cows.Bulls_and_Cows-task-build-tmp.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Bulls and Cows/task/build/tmp/Bulls_and_Cows.Bulls_and_Cows-task-build-tmp.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Bulls and Cows/task/build/tmp/Bulls_and_Cows.Bulls_and_Cows-task-build-tmp.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Bulls_and_Cows.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/Complete the code to reverse a string/Bulls_and_Cows.Topics-Processing_strings-Complete_the_code_to_reverse_a_string.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/Complete the code to reverse a string/Bulls_and_Cows.Topics-Processing_strings-Complete_the_code_to_reverse_a_string.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/Complete the code to reverse a string/Bulls_and_Cows.Topics-Processing_strings-Complete_the_code_to_reverse_a_string.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/Determine the value/Bulls_and_Cows.Topics-Processing_strings-Determine_the_value.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/Determine the value/Bulls_and_Cows.Topics-Processing_strings-Determine_the_value.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/Determine the value/Bulls_and_Cows.Topics-Processing_strings-Determine_the_value.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/Finding the longest word in a sentence/Bulls_and_Cows.Topics-Processing_strings-Finding_the_longest_word_in_a_sentence.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/Finding the longest word in a sentence/Bulls_and_Cows.Topics-Processing_strings-Finding_the_longest_word_in_a_sentence.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/Finding the longest word in a sentence/Bulls_and_Cows.Topics-Processing_strings-Finding_the_longest_word_in_a_sentence.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/Generating passwords/Bulls_and_Cows.Topics-Processing_strings-Generating_passwords.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/Generating passwords/Bulls_and_Cows.Topics-Processing_strings-Generating_passwords.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/Generating passwords/Bulls_and_Cows.Topics-Processing_strings-Generating_passwords.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/Move the first N characters/Bulls_and_Cows.Topics-Processing_strings-Move_the_first_N_characters.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/Move the first N characters/Bulls_and_Cows.Topics-Processing_strings-Move_the_first_N_characters.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/Move the first N characters/Bulls_and_Cows.Topics-Processing_strings-Move_the_first_N_characters.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/Number of occurrences/Bulls_and_Cows.Topics-Processing_strings-Number_of_occurrences.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/Number of occurrences/Bulls_and_Cows.Topics-Processing_strings-Number_of_occurrences.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/Number of occurrences/Bulls_and_Cows.Topics-Processing_strings-Number_of_occurrences.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/Theory/Bulls_and_Cows.Topics-Processing_strings-Theory.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/Theory/Bulls_and_Cows.Topics-Processing_strings-Theory.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/Theory/Bulls_and_Cows.Topics-Processing_strings-Theory.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/util/Bulls_and_Cows.util.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/util/Bulls_and_Cows.util.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/util/Bulls_and_Cows.util.test.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bulls and Cows/Secret code/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Bulls and Cows/Secret code/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bulls and Cows/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Bulls and Cows/lesson-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Bulls and Cows/task/src/bullscows/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Bulls and Cows/task/src/bullscows/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bulls and Cows/task/test/BullsCowsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Bulls and Cows/task/test/BullsCowsTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/course-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,6 +80,18 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -38,6 +112,9 @@
     <setting file="file://$PROJECT_DIR$/Topics/Processing strings/Number of occurrences/src/Main.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Processing strings/Theory/src/Task.java" root0="FORCE_HIGHLIGHTING" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -52,9 +129,11 @@
     "Edu.Yaml.Migrate": "true",
     "Gradle.Tests in 'Bulls_and_Cows.Bulls_and_Cows-task.test'.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "stage3",
-    "kotlin-language-version-configured": "true"
+    "git-widget-placeholder": "stage4",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/rodrigo/IdeaProjects/Bulls-and-Cows"
   }
 }]]></component>
   <component name="RunManager">
@@ -71,13 +150,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-  </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="jdk-17.0.10-corretto-17.0.10-3183f394aec4-96c0d24d" />
-      </set>
-    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">

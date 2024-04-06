@@ -5,19 +5,34 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+        System.out.println("Please, enter the secret code's length:");
         int length = scanner.nextInt();
         String secretCode = createTheSecretCode(length);
 
         if (secretCode.equals("Error")) {
             System.out.printf("Error: can't generate a secret number with a length of %d because there aren't enough unique digits.", length);
         } else {
-            System.out.printf("The random secret number is %s", secretCode);
+            System.out.println("Okay, let's start a game!");
+            tryUserGuesses(scanner, secretCode);
         }
-
-//        String userGuess = scanner.nextLine();
-
-//        printGrade(userGuess, secretCode);
     }
+
+    public static void tryUserGuesses(Scanner scanner, String secretCode) {
+        int turn = 1;
+        String guess = scanner.nextLine();
+        boolean isGuessRight = false;
+
+        do {
+            System.out.printf("Turn %d:", turn);
+            System.out.println();
+            guess = scanner.nextLine();
+            isGuessRight = checkUserGuess(guess, secretCode);
+            turn++;
+        } while(!isGuessRight);
+
+    }
+
+
     public static String createTheSecretCode(int length) {
         if (length > 10) {
             return "Error";
@@ -47,7 +62,7 @@ public class Main {
         return String.valueOf(randomDigit);
     }
 
-    public static void printGrade(String userGuess, String secretCode) {
+    public static boolean checkUserGuess(String userGuess, String secretCode) {
         int bulls = 0;
         int cows = 0;
 
@@ -61,10 +76,18 @@ public class Main {
             }
         }
 
-        if (bulls == 0 && cows == 0) {
-            System.out.printf("Grade: None. The secret code is %s.", secretCode);
+        String bullOrBulls = bulls > 1 ? "bulls" : "bull";
+        String cowOrCows = cows > 1 ? "cows" : "cow";
+
+        if (bulls == secretCode.length()) {
+            System.out.printf("Grade: %d %s", bulls, bullOrBulls);
+            System.out.println(); // Blank line
+            System.out.println("Congratulations! You guessed the secret code.");
+            return true;
         } else {
-            System.out.printf("Grade: %d bull(s) and %d cow(s). The secret code is %s.", bulls, cows, secretCode);
+            System.out.printf("Grade: %d %s and %d %s", bulls, bullOrBulls, cows, cowOrCows);
+            System.out.println(); // Blank line
+            return false;
         }
     }
 }
