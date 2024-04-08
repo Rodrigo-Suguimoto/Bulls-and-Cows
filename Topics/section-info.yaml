@@ -1,2 +1,6 @@
 content:
   - Processing strings
+  - Type casting
+  - NullPointerException
+  - Iterating over arrays
+  - Multidimensional array
