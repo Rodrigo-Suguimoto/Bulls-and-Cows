@@ -5,43 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ac3c22bf-6367-487b-ab67-1098457e043b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Topics/Multidimensional array/Create cube/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Multidimensional array/Create cube/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Multidimensional array/Create cube/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Multidimensional array/Create cube/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Multidimensional array/Fill the matrix by numbers/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Multidimensional array/Fill the matrix by numbers/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Multidimensional array/Fill the matrix by numbers/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Multidimensional array/Fill the matrix by numbers/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Multidimensional array/Find the corners/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Multidimensional array/Find the corners/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Multidimensional array/Find the corners/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Multidimensional array/Find the corners/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Multidimensional array/Getting an element from a 3D array/src/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Multidimensional array/Getting an element from a 3D array/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Multidimensional array/Getting an element from a 3D array/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Multidimensional array/Getting an element from a 3D array/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Multidimensional array/Indexing rules/src/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Multidimensional array/Indexing rules/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Multidimensional array/Indexing rules/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Multidimensional array/Indexing rules/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Multidimensional array/Practical applications/src/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Multidimensional array/Practical applications/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Multidimensional array/Practical applications/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Multidimensional array/Practical applications/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Multidimensional array/Printing lengths of nested arrays/src/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Multidimensional array/Printing lengths of nested arrays/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Multidimensional array/Printing lengths of nested arrays/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Multidimensional array/Printing lengths of nested arrays/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Multidimensional array/Sorting a square matrix display on the command-line/src/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Multidimensional array/Sorting a square matrix display on the command-line/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Multidimensional array/Sorting a square matrix display on the command-line/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Multidimensional array/Sorting a square matrix display on the command-line/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Multidimensional array/Theory/src/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Multidimensional array/Theory/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Multidimensional array/Theory/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Multidimensional array/Theory/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Multidimensional array/lesson-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/checksums/checksums.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/checksums/sha1-checksums.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.bin" afterDir="false" />
@@ -49,47 +12,15 @@
       <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Bulls and Cows/task/Bulls-and-Cows.Bulls_and_Cows-task.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Bulls and Cows/task/Bulls-and-Cows.Bulls_and_Cows-task.main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Bulls and Cows/task/Bulls-and-Cows.Bulls_and_Cows-task.test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Bulls and Cows/task/build/classes/java/Bulls-and-Cows.Bulls_and_Cows-task-build-classes-java.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Bulls and Cows/task/build/classes/java/Bulls-and-Cows.Bulls_and_Cows-task-build-classes-java.main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Bulls and Cows/task/build/classes/java/Bulls-and-Cows.Bulls_and_Cows-task-build-classes-java.test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Bulls and Cows/task/build/reports/tests/Bulls-and-Cows.Bulls_and_Cows-task-build-reports-tests.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Bulls and Cows/task/build/reports/tests/Bulls-and-Cows.Bulls_and_Cows-task-build-reports-tests.main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Bulls and Cows/task/build/reports/tests/Bulls-and-Cows.Bulls_and_Cows-task-build-reports-tests.test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Bulls and Cows/task/build/test-results/Bulls-and-Cows.Bulls_and_Cows-task-build-test-results.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Bulls and Cows/task/build/test-results/Bulls-and-Cows.Bulls_and_Cows-task-build-test-results.main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Bulls and Cows/task/build/test-results/Bulls-and-Cows.Bulls_and_Cows-task-build-test-results.test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Bulls and Cows/task/build/tmp/Bulls-and-Cows.Bulls_and_Cows-task-build-tmp.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Bulls and Cows/task/build/tmp/Bulls-and-Cows.Bulls_and_Cows-task-build-tmp.main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Bulls and Cows/task/build/tmp/Bulls-and-Cows.Bulls_and_Cows-task-build-tmp.test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Bulls-and-Cows.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/Complete the code to reverse a string/Bulls-and-Cows.Topics-Processing_strings-Complete_the_code_to_reverse_a_string.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/Complete the code to reverse a string/Bulls-and-Cows.Topics-Processing_strings-Complete_the_code_to_reverse_a_string.main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/Complete the code to reverse a string/Bulls-and-Cows.Topics-Processing_strings-Complete_the_code_to_reverse_a_string.test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/Determine the value/Bulls-and-Cows.Topics-Processing_strings-Determine_the_value.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/Determine the value/Bulls-and-Cows.Topics-Processing_strings-Determine_the_value.main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/Determine the value/Bulls-and-Cows.Topics-Processing_strings-Determine_the_value.test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/Finding the longest word in a sentence/Bulls-and-Cows.Topics-Processing_strings-Finding_the_longest_word_in_a_sentence.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/Finding the longest word in a sentence/Bulls-and-Cows.Topics-Processing_strings-Finding_the_longest_word_in_a_sentence.main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/Finding the longest word in a sentence/Bulls-and-Cows.Topics-Processing_strings-Finding_the_longest_word_in_a_sentence.test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/Generating passwords/Bulls-and-Cows.Topics-Processing_strings-Generating_passwords.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/Generating passwords/Bulls-and-Cows.Topics-Processing_strings-Generating_passwords.main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/Generating passwords/Bulls-and-Cows.Topics-Processing_strings-Generating_passwords.test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/Move the first N characters/Bulls-and-Cows.Topics-Processing_strings-Move_the_first_N_characters.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/Move the first N characters/Bulls-and-Cows.Topics-Processing_strings-Move_the_first_N_characters.main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/Move the first N characters/Bulls-and-Cows.Topics-Processing_strings-Move_the_first_N_characters.test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/Number of occurrences/Bulls-and-Cows.Topics-Processing_strings-Number_of_occurrences.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/Number of occurrences/Bulls-and-Cows.Topics-Processing_strings-Number_of_occurrences.main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/Number of occurrences/Bulls-and-Cows.Topics-Processing_strings-Number_of_occurrences.test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/Theory/Bulls-and-Cows.Topics-Processing_strings-Theory.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/Theory/Bulls-and-Cows.Topics-Processing_strings-Theory.main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Processing strings/Theory/Bulls-and-Cows.Topics-Processing_strings-Theory.test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/util/Bulls-and-Cows.util.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/util/Bulls-and-Cows.util.main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/util/Bulls-and-Cows.util.test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/section-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/section-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bulls and Cows/Game time/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Bulls and Cows/Game time/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bulls and Cows/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Bulls and Cows/lesson-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bulls and Cows/task/test/BullsCowsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Bulls and Cows/task/test/BullsCowsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Multidimensional array/Fill the matrix by numbers/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Multidimensional array/Fill the matrix by numbers/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Multidimensional array/Fill the matrix by numbers/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Multidimensional array/Fill the matrix by numbers/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,7 +55,15 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Bulls and Cows/task/src/bullscows/Main.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Bulls and Cows/task/test/BullsCowsTest.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Multidimensional array/Create cube/src/Main.java" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Multidimensional array/Fill the matrix by numbers/src/Main.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Multidimensional array/Find the corners/src/Main.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Multidimensional array/Getting an element from a 3D array/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Multidimensional array/Indexing rules/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Multidimensional array/Practical applications/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Multidimensional array/Printing lengths of nested arrays/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Multidimensional array/Sorting a square matrix display on the command-line/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Multidimensional array/Theory/src/Task.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Processing strings/Complete the code to reverse a string/src/Task.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Processing strings/Determine the value/src/Task.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Processing strings/Finding the longest word in a sentence/src/Main.java" root0="FORCE_HIGHLIGHTING" />
@@ -144,19 +83,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "Edu.Yaml.Migrate": "true",
-    "Gradle.Tests in 'Bulls_and_Cows.Bulls_and_Cows-task.test'.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/rodrigo/IdeaProjects/Bulls-and-Cows"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Edu.Yaml.Migrate&quot;: &quot;true&quot;,
+    &quot;Gradle.Tests in 'Bulls_and_Cows.Bulls_and_Cows-task.test'.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/rodrigo/IdeaProjects/Bulls-and-Cows&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="Bulls and Cows" />
