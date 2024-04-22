@@ -1,6 +1,7 @@
 content:
   - Processing strings
-  - Type casting
-  - NullPointerException
-  - Iterating over arrays
   - Multidimensional array
+  - Grouping classes with packages
+  - Instance methods
+  - Initializing new instances. Constructor
+  - Access modifiers

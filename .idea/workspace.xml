@@ -5,14 +5,276 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ac3c22bf-6367-487b-ab67-1098457e043b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Access modifiers/Accessibility outside the package/Bulls_and_Cows.Topics-Access_modifiers-Accessibility_outside_the_package.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Access modifiers/Accessibility outside the package/Bulls_and_Cows.Topics-Access_modifiers-Accessibility_outside_the_package.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Access modifiers/Accessibility outside the package/Bulls_and_Cows.Topics-Access_modifiers-Accessibility_outside_the_package.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Access modifiers/Creating a class with private variable and public method/Bulls_and_Cows.Topics-Access_modifiers-Creating_a_class_with_private_variable_and_public_method.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Access modifiers/Creating a class with private variable and public method/Bulls_and_Cows.Topics-Access_modifiers-Creating_a_class_with_private_variable_and_public_method.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Access modifiers/Creating a class with private variable and public method/Bulls_and_Cows.Topics-Access_modifiers-Creating_a_class_with_private_variable_and_public_method.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Access modifiers/Existing keywords to control access/Bulls_and_Cows.Topics-Access_modifiers-Existing_keywords_to_control_access.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Access modifiers/Existing keywords to control access/Bulls_and_Cows.Topics-Access_modifiers-Existing_keywords_to_control_access.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Access modifiers/Existing keywords to control access/Bulls_and_Cows.Topics-Access_modifiers-Existing_keywords_to_control_access.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Access modifiers/Managing a donut store inventory/Bulls_and_Cows.Topics-Access_modifiers-Managing_a_donut_store_inventory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Access modifiers/Managing a donut store inventory/Bulls_and_Cows.Topics-Access_modifiers-Managing_a_donut_store_inventory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Access modifiers/Managing a donut store inventory/Bulls_and_Cows.Topics-Access_modifiers-Managing_a_donut_store_inventory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Access modifiers/Modifiers and code objects/Bulls_and_Cows.Topics-Access_modifiers-Modifiers_and_code_objects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Access modifiers/Modifiers and code objects/Bulls_and_Cows.Topics-Access_modifiers-Modifiers_and_code_objects.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Access modifiers/Modifiers and code objects/Bulls_and_Cows.Topics-Access_modifiers-Modifiers_and_code_objects.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Access modifiers/Select correct lines (1)/Bulls_and_Cows.Topics-Access_modifiers-Select_correct_lines__1_.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Access modifiers/Select correct lines (1)/Bulls_and_Cows.Topics-Access_modifiers-Select_correct_lines__1_.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Access modifiers/Select correct lines (1)/Bulls_and_Cows.Topics-Access_modifiers-Select_correct_lines__1_.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Access modifiers/Select correct lines (2)/Bulls_and_Cows.Topics-Access_modifiers-Select_correct_lines__2_.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Access modifiers/Select correct lines (2)/Bulls_and_Cows.Topics-Access_modifiers-Select_correct_lines__2_.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Access modifiers/Select correct lines (2)/Bulls_and_Cows.Topics-Access_modifiers-Select_correct_lines__2_.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Access modifiers/Select correct lines/Bulls_and_Cows.Topics-Access_modifiers-Select_correct_lines.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Access modifiers/Select correct lines/Bulls_and_Cows.Topics-Access_modifiers-Select_correct_lines.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Access modifiers/Select correct lines/Bulls_and_Cows.Topics-Access_modifiers-Select_correct_lines.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Access modifiers/Suitable modifiers/Bulls_and_Cows.Topics-Access_modifiers-Suitable_modifiers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Access modifiers/Suitable modifiers/Bulls_and_Cows.Topics-Access_modifiers-Suitable_modifiers.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Access modifiers/Suitable modifiers/Bulls_and_Cows.Topics-Access_modifiers-Suitable_modifiers.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Access modifiers/Theory/Bulls_and_Cows.Topics-Access_modifiers-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Access modifiers/Theory/Bulls_and_Cows.Topics-Access_modifiers-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Access modifiers/Theory/Bulls_and_Cows.Topics-Access_modifiers-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Access modifiers/Types of access modifiers/Bulls_and_Cows.Topics-Access_modifiers-Types_of_access_modifiers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Access modifiers/Types of access modifiers/Bulls_and_Cows.Topics-Access_modifiers-Types_of_access_modifiers.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Access modifiers/Types of access modifiers/Bulls_and_Cows.Topics-Access_modifiers-Types_of_access_modifiers.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Grouping classes with packages/Calculating package shipping cost by weight/Bulls_and_Cows.Topics-Grouping_classes_with_packages-Calculating_package_shipping_cost_by_weight.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Grouping classes with packages/Calculating package shipping cost by weight/Bulls_and_Cows.Topics-Grouping_classes_with_packages-Calculating_package_shipping_cost_by_weight.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Grouping classes with packages/Calculating package shipping cost by weight/Bulls_and_Cows.Topics-Grouping_classes_with_packages-Calculating_package_shipping_cost_by_weight.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Grouping classes with packages/Fixing a greeting program/Bulls_and_Cows.Topics-Grouping_classes_with_packages-Fixing_a_greeting_program.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Grouping classes with packages/Fixing a greeting program/Bulls_and_Cows.Topics-Grouping_classes_with_packages-Fixing_a_greeting_program.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Grouping classes with packages/Fixing a greeting program/Bulls_and_Cows.Topics-Grouping_classes_with_packages-Fixing_a_greeting_program.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Grouping classes with packages/Package features/Bulls_and_Cows.Topics-Grouping_classes_with_packages-Package_features.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Grouping classes with packages/Package features/Bulls_and_Cows.Topics-Grouping_classes_with_packages-Package_features.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Grouping classes with packages/Package features/Bulls_and_Cows.Topics-Grouping_classes_with_packages-Package_features.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Grouping classes with packages/Required input/Bulls_and_Cows.Topics-Grouping_classes_with_packages-Required_input.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Grouping classes with packages/Required input/Bulls_and_Cows.Topics-Grouping_classes_with_packages-Required_input.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Grouping classes with packages/Required input/Bulls_and_Cows.Topics-Grouping_classes_with_packages-Required_input.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Grouping classes with packages/Sorting arrays/Bulls_and_Cows.Topics-Grouping_classes_with_packages-Sorting_arrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Grouping classes with packages/Sorting arrays/Bulls_and_Cows.Topics-Grouping_classes_with_packages-Sorting_arrays.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Grouping classes with packages/Sorting arrays/Bulls_and_Cows.Topics-Grouping_classes_with_packages-Sorting_arrays.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Grouping classes with packages/The default import/Bulls_and_Cows.Topics-Grouping_classes_with_packages-The_default_import.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Grouping classes with packages/The default import/Bulls_and_Cows.Topics-Grouping_classes_with_packages-The_default_import.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Grouping classes with packages/The default import/Bulls_and_Cows.Topics-Grouping_classes_with_packages-The_default_import.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Grouping classes with packages/Theory/Bulls_and_Cows.Topics-Grouping_classes_with_packages-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Grouping classes with packages/Theory/Bulls_and_Cows.Topics-Grouping_classes_with_packages-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Grouping classes with packages/Theory/Bulls_and_Cows.Topics-Grouping_classes_with_packages-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Initializing new instances. Constructor/A required part of a class/Bulls_and_Cows.Topics-Initializing_new_instances._Constructor-A_required_part_of_a_class.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Initializing new instances. Constructor/A required part of a class/Bulls_and_Cows.Topics-Initializing_new_instances._Constructor-A_required_part_of_a_class.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Initializing new instances. Constructor/A required part of a class/Bulls_and_Cows.Topics-Initializing_new_instances._Constructor-A_required_part_of_a_class.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Initializing new instances. Constructor/Account and its owner/Bulls_and_Cows.Topics-Initializing_new_instances._Constructor-Account_and_its_owner.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Initializing new instances. Constructor/Account and its owner/Bulls_and_Cows.Topics-Initializing_new_instances._Constructor-Account_and_its_owner.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Initializing new instances. Constructor/Account and its owner/Bulls_and_Cows.Topics-Initializing_new_instances._Constructor-Account_and_its_owner.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Initializing new instances. Constructor/Automatically created constructor/Bulls_and_Cows.Topics-Initializing_new_instances._Constructor-Automatically_created_constructor.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Initializing new instances. Constructor/Automatically created constructor/Bulls_and_Cows.Topics-Initializing_new_instances._Constructor-Automatically_created_constructor.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Initializing new instances. Constructor/Automatically created constructor/Bulls_and_Cows.Topics-Initializing_new_instances._Constructor-Automatically_created_constructor.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Initializing new instances. Constructor/Automatically generated constructor/Bulls_and_Cows.Topics-Initializing_new_instances._Constructor-Automatically_generated_constructor.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Initializing new instances. Constructor/Automatically generated constructor/Bulls_and_Cows.Topics-Initializing_new_instances._Constructor-Automatically_generated_constructor.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Initializing new instances. Constructor/Automatically generated constructor/Bulls_and_Cows.Topics-Initializing_new_instances._Constructor-Automatically_generated_constructor.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Initializing new instances. Constructor/Default constructor/Bulls_and_Cows.Topics-Initializing_new_instances._Constructor-Default_constructor.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Initializing new instances. Constructor/Default constructor/Bulls_and_Cows.Topics-Initializing_new_instances._Constructor-Default_constructor.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Initializing new instances. Constructor/Default constructor/Bulls_and_Cows.Topics-Initializing_new_instances._Constructor-Default_constructor.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Initializing new instances. Constructor/Geometric cube/Bulls_and_Cows.Topics-Initializing_new_instances._Constructor-Geometric_cube.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Initializing new instances. Constructor/Geometric cube/Bulls_and_Cows.Topics-Initializing_new_instances._Constructor-Geometric_cube.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Initializing new instances. Constructor/Geometric cube/Bulls_and_Cows.Topics-Initializing_new_instances._Constructor-Geometric_cube.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Initializing new instances. Constructor/Theory/Bulls_and_Cows.Topics-Initializing_new_instances._Constructor-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Initializing new instances. Constructor/Theory/Bulls_and_Cows.Topics-Initializing_new_instances._Constructor-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Initializing new instances. Constructor/Theory/Bulls_and_Cows.Topics-Initializing_new_instances._Constructor-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Initializing new instances. Constructor/User/Bulls_and_Cows.Topics-Initializing_new_instances._Constructor-User.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Initializing new instances. Constructor/User/Bulls_and_Cows.Topics-Initializing_new_instances._Constructor-User.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Initializing new instances. Constructor/User/Bulls_and_Cows.Topics-Initializing_new_instances._Constructor-User.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Instance methods/Circle/Bulls_and_Cows.Topics-Instance_methods-Circle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Instance methods/Circle/Bulls_and_Cows.Topics-Instance_methods-Circle.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Instance methods/Circle/Bulls_and_Cows.Topics-Instance_methods-Circle.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Instance methods/Complex numbers/Bulls_and_Cows.Topics-Instance_methods-Complex_numbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Instance methods/Complex numbers/Bulls_and_Cows.Topics-Instance_methods-Complex_numbers.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Instance methods/Complex numbers/Bulls_and_Cows.Topics-Instance_methods-Complex_numbers.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Instance methods/Counter/Bulls_and_Cows.Topics-Instance_methods-Counter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Instance methods/Counter/Bulls_and_Cows.Topics-Instance_methods-Counter.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Instance methods/Counter/Bulls_and_Cows.Topics-Instance_methods-Counter.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Instance methods/Declare me/Bulls_and_Cows.Topics-Instance_methods-Declare_me.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Instance methods/Declare me/Bulls_and_Cows.Topics-Instance_methods-Declare_me.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Instance methods/Declare me/Bulls_and_Cows.Topics-Instance_methods-Declare_me.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Instance methods/In a box/Bulls_and_Cows.Topics-Instance_methods-In_a_box.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Instance methods/In a box/Bulls_and_Cows.Topics-Instance_methods-In_a_box.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Instance methods/In a box/Bulls_and_Cows.Topics-Instance_methods-In_a_box.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Instance methods/Invoke instance method/Bulls_and_Cows.Topics-Instance_methods-Invoke_instance_method.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Instance methods/Invoke instance method/Bulls_and_Cows.Topics-Instance_methods-Invoke_instance_method.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Instance methods/Invoke instance method/Bulls_and_Cows.Topics-Instance_methods-Invoke_instance_method.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Instance methods/Theory/Bulls_and_Cows.Topics-Instance_methods-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Instance methods/Theory/Bulls_and_Cows.Topics-Instance_methods-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Instance methods/Theory/Bulls_and_Cows.Topics-Instance_methods-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Access modifiers/Accessibility outside the package/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Access modifiers/Accessibility outside the package/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Access modifiers/Accessibility outside the package/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Access modifiers/Accessibility outside the package/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Access modifiers/Creating a class with private variable and public method/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Access modifiers/Creating a class with private variable and public method/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Access modifiers/Creating a class with private variable and public method/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Access modifiers/Creating a class with private variable and public method/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Access modifiers/Existing keywords to control access/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Access modifiers/Existing keywords to control access/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Access modifiers/Existing keywords to control access/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Access modifiers/Existing keywords to control access/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Access modifiers/Managing a donut store inventory/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Access modifiers/Managing a donut store inventory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Access modifiers/Managing a donut store inventory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Access modifiers/Managing a donut store inventory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Access modifiers/Modifiers and code objects/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Access modifiers/Modifiers and code objects/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Access modifiers/Modifiers and code objects/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Access modifiers/Modifiers and code objects/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Access modifiers/Select correct lines (1)/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Access modifiers/Select correct lines (1)/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Access modifiers/Select correct lines (1)/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Access modifiers/Select correct lines (1)/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Access modifiers/Select correct lines (2)/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Access modifiers/Select correct lines (2)/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Access modifiers/Select correct lines (2)/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Access modifiers/Select correct lines (2)/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Access modifiers/Select correct lines/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Access modifiers/Select correct lines/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Access modifiers/Select correct lines/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Access modifiers/Select correct lines/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Access modifiers/Suitable modifiers/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Access modifiers/Suitable modifiers/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Access modifiers/Suitable modifiers/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Access modifiers/Suitable modifiers/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Access modifiers/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Access modifiers/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Access modifiers/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Access modifiers/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Access modifiers/Types of access modifiers/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Access modifiers/Types of access modifiers/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Access modifiers/Types of access modifiers/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Access modifiers/Types of access modifiers/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Access modifiers/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Grouping classes with packages/Calculating package shipping cost by weight/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Grouping classes with packages/Calculating package shipping cost by weight/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Grouping classes with packages/Calculating package shipping cost by weight/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Grouping classes with packages/Calculating package shipping cost by weight/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Grouping classes with packages/Fixing a greeting program/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Grouping classes with packages/Fixing a greeting program/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Grouping classes with packages/Fixing a greeting program/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Grouping classes with packages/Fixing a greeting program/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Grouping classes with packages/Package features/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Grouping classes with packages/Package features/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Grouping classes with packages/Package features/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Grouping classes with packages/Package features/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Grouping classes with packages/Required input/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Grouping classes with packages/Required input/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Grouping classes with packages/Required input/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Grouping classes with packages/Required input/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Grouping classes with packages/Sorting arrays/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Grouping classes with packages/Sorting arrays/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Grouping classes with packages/Sorting arrays/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Grouping classes with packages/Sorting arrays/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Grouping classes with packages/The default import/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Grouping classes with packages/The default import/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Grouping classes with packages/The default import/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Grouping classes with packages/The default import/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Grouping classes with packages/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Grouping classes with packages/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Grouping classes with packages/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Grouping classes with packages/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Grouping classes with packages/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/A required part of a class/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/A required part of a class/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/A required part of a class/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/A required part of a class/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/Account and its owner/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/Account and its owner/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/Account and its owner/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/Account and its owner/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/Automatically created constructor/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/Automatically created constructor/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/Automatically created constructor/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/Automatically created constructor/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/Automatically generated constructor/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/Automatically generated constructor/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/Automatically generated constructor/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/Automatically generated constructor/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/Default constructor/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/Default constructor/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/Default constructor/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/Default constructor/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/Geometric cube/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/Geometric cube/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/Geometric cube/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/Geometric cube/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/User/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/User/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/User/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/User/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Instance methods/Circle/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Instance methods/Circle/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Instance methods/Circle/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Instance methods/Circle/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Instance methods/Complex numbers/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Instance methods/Complex numbers/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Instance methods/Complex numbers/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Instance methods/Complex numbers/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Instance methods/Counter/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Instance methods/Counter/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Instance methods/Counter/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Instance methods/Counter/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Instance methods/Declare me/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Instance methods/Declare me/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Instance methods/Declare me/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Instance methods/Declare me/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Instance methods/In a box/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Instance methods/In a box/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Instance methods/In a box/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Instance methods/In a box/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Instance methods/Invoke instance method/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Instance methods/Invoke instance method/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Instance methods/Invoke instance method/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Instance methods/Invoke instance method/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Instance methods/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Instance methods/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Instance methods/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Instance methods/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Instance methods/lesson-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/checksums/md5-checksums.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/checksums/sha1-checksums.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bulls and Cows/Improve the code generator/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Bulls and Cows/Improve the code generator/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bulls and Cows/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Bulls and Cows/lesson-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bulls and Cows/task/build/classes/java/main/bullscows/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Bulls and Cows/task/build/classes/java/main/bullscows/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bulls and Cows/task/build/classes/java/test/BullsCowsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Bulls and Cows/task/build/classes/java/test/BullsCowsTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bulls and Cows/task/build/reports/tests/test/classes/BullsCowsTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bulls and Cows/task/build/reports/tests/test/classes/BullsCowsTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bulls and Cows/task/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bulls and Cows/task/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bulls and Cows/task/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bulls and Cows/task/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bulls and Cows/task/build/test-results/test/TEST-BullsCowsTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Bulls and Cows/task/build/test-results/test/TEST-BullsCowsTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bulls and Cows/task/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Bulls and Cows/task/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bulls and Cows/task/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/Bulls and Cows/task/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bulls and Cows/task/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Bulls and Cows/task/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bulls and Cows/task/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Bulls and Cows/task/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bulls and Cows/task/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Bulls and Cows/task/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bulls and Cows/task/test/BullsCowsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Bulls and Cows/task/test/BullsCowsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Multidimensional array/Theory/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Multidimensional array/Theory/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Multidimensional array/Theory/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Multidimensional array/Theory/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Processing strings/Theory/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Processing strings/Theory/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Processing strings/Theory/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Processing strings/Theory/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/section-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/section-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/course-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +299,13 @@
       </state>
     </system>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
@@ -48,6 +317,39 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Bulls and Cows/task/src/bullscows/Main.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Bulls and Cows/task/test/BullsCowsTest.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Access modifiers/Accessibility outside the package/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Access modifiers/Creating a class with private variable and public method/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Access modifiers/Existing keywords to control access/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Access modifiers/Managing a donut store inventory/src/Main.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Access modifiers/Modifiers and code objects/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Access modifiers/Select correct lines (1)/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Access modifiers/Select correct lines (2)/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Access modifiers/Select correct lines/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Access modifiers/Suitable modifiers/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Access modifiers/Theory/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Access modifiers/Types of access modifiers/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Grouping classes with packages/Calculating package shipping cost by weight/src/Main.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Grouping classes with packages/Fixing a greeting program/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Grouping classes with packages/Package features/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Grouping classes with packages/Required input/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Grouping classes with packages/Sorting arrays/src/Main.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Grouping classes with packages/The default import/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Grouping classes with packages/Theory/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Initializing new instances. Constructor/A required part of a class/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Initializing new instances. Constructor/Account and its owner/src/Main.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Initializing new instances. Constructor/Automatically created constructor/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Initializing new instances. Constructor/Automatically generated constructor/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Initializing new instances. Constructor/Default constructor/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Initializing new instances. Constructor/Geometric cube/src/Main.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Initializing new instances. Constructor/Theory/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Initializing new instances. Constructor/User/src/Main.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Instance methods/Circle/src/Main.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Instance methods/Complex numbers/src/Main.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Instance methods/Counter/src/Main.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Instance methods/Declare me/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Instance methods/In a box/src/Main.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Instance methods/Invoke instance method/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Instance methods/Theory/src/Task.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Multidimensional array/Create cube/src/Main.java" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Multidimensional array/Fill the matrix by numbers/src/Main.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Multidimensional array/Find the corners/src/Main.java" root0="SKIP_HIGHLIGHTING" />

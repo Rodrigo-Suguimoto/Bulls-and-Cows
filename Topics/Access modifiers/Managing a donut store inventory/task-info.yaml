@@ -1,0 +1,30 @@
+type: code
+files:
+  - name: src/Main.java
+    visible: true
+    text: |-
+      import java.util.Scanner;
+      
+      public class Main {
+          public static void main(String[] args) {
+              Scanner input = new Scanner(System.in);
+      
+              // Your code here
+          }
+      }
+      
+      class Donut {
+          // Your code here
+      }
+      
+      class DonutStore {
+          // Your code here
+      }
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/43193#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Sun, 21 Apr 2024 13:43:13 UTC"
+record: -1
+submission_language: java17

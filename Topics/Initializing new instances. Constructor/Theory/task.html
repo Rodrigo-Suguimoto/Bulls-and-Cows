@@ -1,0 +1,84 @@
+<h2>Initializing new instances. Constructor</h2>
+<div class="step-text">
+<p><strong>Constructors</strong> are special methods that <a class="theory-lookup" href="/learn/step/3511" rel="noopener noreferrer nofollow" target="_blank" title="In Java, initialization refers to the process of assigning an initial value to a variable or an object. | This can be done in several ways, such as through a constructor, an instance initialization block, or a static initialization block. The Java compiler also allows for automatic type inference during initialization, where the type is determined based on the assigned value. Initialization is an important concept in Java as it ensures that objects are properly set up before they are used in the program.">initialize</a> a <strong><a class="theory-lookup" href="/learn/step/4727" rel="noopener noreferrer nofollow" target="_blank" title="In Java, a new object is an instance of a particular class that is created during runtime using the `new` keyword. | When a new object is created, memory is allocated for it on the heap, and its constructor is called to initialize its state. The object can then be used and manipulated throughout the program. It's important to note that variables of reference types, such as objects, store a reference to the object's location in memory, rather than the object itself. Additionally, if a class has no explicit constructor, the Java compiler automatically provides a default no-argument constructor.">new object</a> </strong>of the <a class="theory-lookup" href="/learn/step/19918" rel="noopener noreferrer nofollow" target="_blank" title="In Java, a class is one of the fundamental concepts used to develop the logic of a program. | It is a template that defines properties and behaviors of objects. Fields in a class describe the properties of an object, while methods describe what an object can do. Classes can be divided into two groups: instance and static. Instance methods are unique to each instance of a class and can access and modify the state of that instance. Custom classes can be created to define fields and methods that are tailored to specific purposes.">class</a>. A constructor of a class is invoked when an instance is created using the <a class="theory-lookup" href="/learn/step/3521" rel="noopener noreferrer nofollow" target="_blank" title="In Java, a keyword is a word that has a special meaning in the programming language and is reserved for a specific use. | Keywords cannot be used as variable names in your own program. They have a predefined purpose in the Java language and are used by the Java compiler to parse and understand the code. Examples of keywords include public, class, and void. Understanding keywords is crucial for writing valid Java code and for debugging any syntax errors that may occur.">keyword</a> <code class="language-java">new</code>.</p>
+<p>A constructor is different from other <a class="theory-lookup" href="/learn/step/10973" rel="noopener noreferrer nofollow" target="_blank" title="In Java, a method is a named block of reusable code that performs a specific task. | It consists of a set of modifiers, a return type, a name, a list of parameters, and a body. Methods may or may not return a value, which is indicated by the use of the void keyword. When a method is called, it can take zero or more arguments as input, which are the parameters defined in the method. Methods help to structure code, promote reusability, and make it easier to maintain.">methods</a> in that:</p>
+<ul>
+<li>
+<p>it has the same name as the class that contains it;</p>
+</li>
+<li>
+<p>it has no <a class="theory-lookup" href="/learn/step/10982" rel="noopener noreferrer nofollow" target="_blank" title="In Java, a return type is the data type of the value returned by a method. | Methods can return various types of data, such as integers, strings, or objects, depending on their implementation. If a method does not return a value, its return type is specified as void. When a method is called, the returned value can be assigned to a variable, printed, or passed as an argument to another method. Java also supports covariant return types, which allow a subclass to narrow the return type of an overridden method to a subtype of the original return type.">return type</a> (not even <code class="language-java">void</code>).</p>
+</li>
+</ul>
+<p>Constructors initialize <strong>instances</strong> (objects) of the class. They set values to the <a class="theory-lookup" href="/learn/step/11523" rel="noopener noreferrer nofollow" target="_blank" title="In Java, a field is a variable that stores data within a class. | It can hold any type of data, including primitive types (such as int, float, boolean) and class types. A class can have multiple fields, and they can have different access modifiers. When a field is declared as static, it belongs to the class itself, rather than to an instance of the class, and shares the same value for all instances. It is a common practice to declare a static field as a global variable to save memory.">fields</a> when the object is created. Also, constructors can take parameters for initializing fields by the given values.</p>
+<h5 id="using-constructors">Using constructors</h5>
+<p>Here is a class named <code class="language-java">Patient</code>. An object of the class has a name, an age, and a height. The class has a constructor with 3 parameters to initialize objects with specific values.</p>
+<pre><code class="language-java">class Patient {
+
+    String name;
+    int age;
+    float height;
+
+    public Patient(String name, int age, float height) {
+        this.name = name;
+        this.age = age;
+        this.height = height;
+    }
+}</code></pre>
+<p>Let's go further and create some <a class="theory-lookup" href="/learn/step/3549" rel="noopener noreferrer nofollow" target="_blank" title="In Java, an instance refers to an object that is created from a class blueprint. | It represents a specific entity with its own set of attributes and behaviors. For example, in the context of comparing two instances of the class, it means comparing two objects created from the same class but possibly with different values. Instances have access to instance methods, which are methods that belong to each object created from the class. This means that each instance can have its own unique state, and the instance method can access and manipulate this state. To create an instance of a class, you can either call the constructor directly or use the `new` keyword. Additionally, you can obtain an instance of a class by having a reference to a class, such as through an object or a class literal.">instances of</a> the class using the constructor we've written:</p>
+<pre><code class="language-java">Patient patient1 = new Patient("Heinrich", 40, 182.0f);
+Patient patient2 = new Patient("Mary", 33, 171.5f);</code></pre>
+<p>Now we have two patients, Heinrich and Mary, with the same fields, but the values of those fields are different.</p>
+<h5 id="keyword-this">Keyword this</h5>
+<p>In the example above, <code class="language-java">Patient</code> constructor takes three parameters:</p>
+<pre><code class="language-java">this.name = name;
+this.age = age;
+this.height = height;</code></pre>
+<p>To initialize the fields, the keyword <code class="language-java">this</code> is used, which is a <a class="theory-lookup" href="/learn/step/4727" rel="noopener noreferrer nofollow" target="_blank" title="In Java, a reference is a variable that stores the memory address of an object created by the new operator. | With this reference, you can access and modify the object's fields. Several variables can refer to the same object through a reference. It is also possible to create two independent objects with the same field content, but reference to such objects are different. Not all objects allow changing their state after creation, and this feature is called immutability. Reference type comparison using '==' and '!=' compares references (memory addresses) rather than the actual value. When comparing two variables of a reference type, it checks if they refer to the same object, not if they have the same value.">reference</a> to the current object. Usually, the keyword <code class="language-java">this</code> is used when an instance <a class="theory-lookup" href="/learn/step/3518" rel="noopener noreferrer nofollow" target="_blank" title="In Java, a variable is a named storage location that is used to store a value of a specific type. | It is declared with a specific data type, which determines the kind of value that can be stored in it. Every variable has a unique name, also known as an identifier, which is used to access its value. Variables can be declared and initialized in a single statement, and their value can be accessed and modified using the name. It's important to note that variables can be changed, meaning you can assign a new value to a variable without having to declare it again.">variable</a> and a constructor or a method variable share the same name. This keyword helps to disambiguate these situations.</p>
+<p>If you write something like <code class="language-java">name = name</code>, it means that you're assigning the <code class="language-java">name</code> variable to itself, which, of course, doesn't make any sense. Frankly speaking, you may distinguish two objects simply by assigning another name to the variable, like <code class="language-java">name = newName</code>. It is not prohibited, but it is considered bad practice since these variables point to the same thing. These are the reasons why the keyword <code class="language-java">this</code>is extremely useful with constructors, fields, and methods. The absence of extra variables makes the code look clearer and less overloaded.</p>
+<h5 id="default-and-no-argument-constructor">Default and no-argument constructor</h5>
+<p>The compiler automatically provides <strong>a default <a class="theory-lookup" href="/learn/step/3538" rel="noopener noreferrer nofollow" target="_blank" title="In Java, a no-argument constructor is a constructor that takes no arguments and is used to initialize the instance variables of a class with their default values. | If a class does not define any constructor, the Java compiler automatically provides a default no-argument constructor. However, if a class defines any specific constructor, the default no-argument constructor will not be created.">no-argument constructor</a></strong> for any class without constructors.</p>
+<pre><code class="language-java">class Patient {
+
+    String name;
+    int age;
+    float height;
+}</code></pre>
+<p>We can create an instance of the class <code class="language-java">Patient</code> using the no-argument <a class="theory-lookup" href="/learn/step/3538" rel="noopener noreferrer nofollow" target="_blank" title="In Java, a default constructor is a no-argument constructor that is automatically provided by the Java compiler if no constructor is explicitly defined in a class. | It initializes all fields with their default value. If a specific constructor is defined, the default constructor will not be created. No-argument constructors are useful in cases when any default value is better than no value at all. They allow you to create an instance of the class using the no-argument default constructor, in which all fields will be filled with the default value of their type.">default constructor</a>:</p>
+<pre><code class="language-java">Patient patient = new Patient();</code></pre>
+<p>In this case, all fields will be filled with the <a class="theory-lookup" href="/learn/step/3511" rel="noopener noreferrer nofollow" target="_blank" title="In Java, a default value is a value that is automatically assigned to a variable, field, or array element if no explicit initial value is provided. | For example, an array of a primitive type is initialized with default values. Variables of type boolean are initialized to false, while numeric types are initialized to zero. For object reference types, the default value is null. When creating an object of a class, if no constructor is defined, the compiler automatically provides a default no-argument constructor that initializes all fields with their default values. However, if a specific constructor is defined, the default constructor will not be created.">default values</a> of their types.</p>
+<p>If you define a specific constructor, the default constructor will not be created.</p>
+<p>We can also define a constructor without any arguments, but use it to set default values for fields of a class. For example, we can initialize <code class="language-java">name</code> with <code class="language-java">"Unknown"</code>:</p>
+<pre><code class="language-java">class Patient {
+
+    String name;
+    int age;
+    float height;
+
+    public Patient() {
+        this.name = "Unknown";
+    }
+}</code></pre>
+<p>Such no-argument constructors are useful in cases when any default value is better than <code class="language-java">null</code>.</p>
+<h5 id="to-sum-up">To sum up</h5>
+<ul>
+<li>
+<p>Any Java class has a constructor to initialize objects;</p>
+</li>
+<li>
+<p>A constructor has the same name as the class containing it;</p>
+</li>
+<li>
+<p>A constructor has no return type, not even <code class="language-java">void</code>;</p>
+</li>
+<li>
+<p>If a class has no explicit constructors, the Java compiler automatically provides a default no-argument constructor;</p>
+</li>
+<li>
+<p>If we want to introduce new variables to denote the same thing, make the code clearer and less loaded with extra variables, the keyword <code class="language-java">this</code> is used.</p>
+</li>
+</ul>
+<h5 id="conclusion">Conclusion</h5>
+<p><strong>Constructors </strong>are special methods used to initialize class objects when they are created using the <code class="language-java">new</code> keyword. They have the same name as the class they belong to and have no return type (not even void). Constructors are necessary for initializing class objects and can take parameters to initialize fields with specific values. The <code class="language-java">this</code> keyword is used in the constructor to reference the current object. If a class doesn't have explicit constructors, the Java compiler automatically provides a default no-argument constructor.<br/><br/>
+</p>
+</div>
