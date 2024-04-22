@@ -6,8 +6,11 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Please, enter the secret code's length:");
+        System.out.println("Input the length of the secret code:");
         int length = scanner.nextInt();
+        System.out.println("Input the number of possible symbols in the code:");
+        int possibleSymbols = scanner.nextInt();
+
         String secretCode = createTheSecretCode(length);
         System.out.println(secretCode);
 
@@ -36,7 +39,7 @@ public class Main {
 
 
     public static String createTheSecretCode(int length) {
-        if (length > 10) {
+        if (length > 36) {
             return "Error";
         }
 
