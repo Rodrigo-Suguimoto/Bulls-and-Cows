@@ -1,7 +1,29 @@
 package bullscows;
 import java.util.Random;
-
 import java.util.Scanner;
+
+class SecretCode {
+
+    private String secretCode;
+
+    public SecretCode(int length, int possibleSymbols) {
+        if (length > 36) {
+            this.secretCode = "Error";
+        }
+
+        StringBuilder secretCode = new StringBuilder();
+
+        while (secretCode.length() < length) {
+            String randomDigit = createRandomDigit();
+            if (secretCode.indexOf(randomDigit) == -1) {
+                secretCode.append(randomDigit);
+            }
+        }
+
+        this.secretCode = secretCode.toString();
+    }
+
+}
 
 public class Main {
     public static void main(String[] args) {
