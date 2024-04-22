@@ -45,13 +45,6 @@ public class Main {
 
         StringBuilder secretCode = new StringBuilder();
 
-        // First Digit can't be 0
-        String firstDigit;
-        do {
-            firstDigit = createRandomDigit();
-        } while (firstDigit.equals("0"));
-        secretCode.append(firstDigit);
-
         while (secretCode.length() < length) {
             String randomDigit = createRandomDigit();
             if (secretCode.indexOf(randomDigit) == -1) {
