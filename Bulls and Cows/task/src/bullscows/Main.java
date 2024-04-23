@@ -6,7 +6,7 @@ class SecretCode {
 
     private String secretCode;
 
-    public SecretCode(int length, int possibleSymbols) {
+    public SecretCode(int length, int numberOfPossibleSymbols) {
         if (length > 36) {
             this.secretCode = "Error";
         }
@@ -14,13 +14,34 @@ class SecretCode {
         StringBuilder secretCode = new StringBuilder();
 
         while (secretCode.length() < length) {
-            String randomDigit = createRandomDigit();
+            String randomDigit = createRandomDigit(numberOfPossibleSymbols);
+            System.out.println(randomDigit);
             if (secretCode.indexOf(randomDigit) == -1) {
                 secretCode.append(randomDigit);
             }
         }
 
         this.secretCode = secretCode.toString();
+    }
+
+    public String getSecretCode() {
+        return this.secretCode;
+    }
+
+    private String createRandomDigit(int numberOfPossibleSymbols) {
+        String symbols = "0123456789" + "abcdefghijklmnopqrstuvwxyz";
+
+        // Test
+//        int randomNumber = random.nextInt(numberOfPossibleSymbols);
+//        System.out.println(randomNumber + " " + symbols.charAt(randomNumber));
+
+        int randomIndex = (int) (numberOfPossibleSymbols * Math.random());
+        System.out.println("Random Index created on createRandomDigit function: " + randomIndex);
+
+        char randomDigit = symbols.charAt(randomIndex);
+        System.out.println("Random Digit created on createRandomDigit function: " + randomDigit);
+
+        return String.valueOf(randomDigit);
     }
 
 }
@@ -33,7 +54,8 @@ public class Main {
         System.out.println("Input the number of possible symbols in the code:");
         int possibleSymbols = scanner.nextInt();
 
-        String secretCode = createTheSecretCode(length);
+        SecretCode secretCodeObject = new SecretCode(length, possibleSymbols);
+        String secretCode = secretCodeObject.getSecretCode();
         System.out.println(secretCode);
 
         if (secretCode.equals("Error")) {
@@ -57,30 +79,6 @@ public class Main {
             turn++;
         } while(!isGuessRight);
 
-    }
-
-
-    public static String createTheSecretCode(int length) {
-        if (length > 36) {
-            return "Error";
-        }
-
-        StringBuilder secretCode = new StringBuilder();
-
-        while (secretCode.length() < length) {
-            String randomDigit = createRandomDigit();
-            if (secretCode.indexOf(randomDigit) == -1) {
-                secretCode.append(randomDigit);
-            }
-        }
-
-        return secretCode.toString();
-    }
-
-    public static String createRandomDigit() {
-        Random random = new Random();
-        int randomDigit = random.nextInt(10);
-        return String.valueOf(randomDigit);
     }
 
     public static boolean checkUserGuess(String userGuess, String secretCode) {
