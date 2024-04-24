@@ -39,15 +39,12 @@ class SecretCode {
         String formattedResult = "";
 
         if (numberOfPossibleSymbols <= 10) {
-            formattedResult = String.format("(%s-%s)",
-                    possibleSymbols.charAt(0),
+            formattedResult = String.format("(0-%s)",
                     possibleSymbols.charAt(possibleSymbols.length() - 1));
 
             return formattedResult;
         } else {
-            formattedResult = String.format("(%s-%s, %s-%s)", possibleSymbols.charAt(0),
-                    possibleSymbols.charAt(9),
-                    possibleSymbols.charAt(10),
+            formattedResult = String.format("(0-10, a-%s)",
                     possibleSymbols.charAt(possibleSymbols.length() - 1)
                     );
 
@@ -68,8 +65,7 @@ public class Main {
         SecretCode secretCodeObject = new SecretCode(length, numberOfPossibleSymbols);
         String secretCode = secretCodeObject.getSecretCode();
         String possibleSymbols = secretCodeObject.getPossibleSymbols(numberOfPossibleSymbols);
-        System.out.printf("The secret code is prepared: %s %s.", "*".repeat(secretCode.length()), possibleSymbols);
-        System.out.println();
+        System.out.printf("The secret code is prepared: %s %s.\n", "*".repeat(secretCode.length()), possibleSymbols);
 
         if (secretCode.equals("Error")) {
             System.out.printf("Error: can't generate a secret number with a length of %d because there aren't enough unique digits.", length);
