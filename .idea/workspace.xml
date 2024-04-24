@@ -5,10 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ac3c22bf-6367-487b-ab67-1098457e043b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bulls and Cows/task/out/production/classes/bullscows/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Bulls and Cows/task/out/production/classes/bullscows/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Bulls and Cows/task/src/bullscows/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Bulls and Cows/task/src/bullscows/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Access modifiers/Managing a donut store inventory/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Access modifiers/Managing a donut store inventory/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Access modifiers/Theory/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Access modifiers/Theory/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Access modifiers/Theory/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Access modifiers/Theory/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Grouping classes with packages/Theory/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Grouping classes with packages/Theory/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Grouping classes with packages/Theory/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Grouping classes with packages/Theory/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/Theory/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/Theory/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/Theory/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/Theory/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Instance methods/Theory/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Instance methods/Theory/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Instance methods/Theory/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Instance methods/Theory/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Multidimensional array/Theory/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Multidimensional array/Theory/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Multidimensional array/Theory/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Multidimensional array/Theory/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Processing strings/Theory/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Processing strings/Theory/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Processing strings/Theory/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Processing strings/Theory/task.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/course-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

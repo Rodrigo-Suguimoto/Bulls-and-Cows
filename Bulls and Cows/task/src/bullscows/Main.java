@@ -1,10 +1,10 @@
 package bullscows;
-import java.util.Random;
 import java.util.Scanner;
 
 class SecretCode {
 
     private String secretCode;
+    private final String symbols = "0123456789" + "abcdefghijklmnopqrstuvwxyz";
 
     public SecretCode(int length, int numberOfPossibleSymbols) {
         if (length > 36) {
@@ -15,7 +15,6 @@ class SecretCode {
 
         while (secretCode.length() < length) {
             String randomDigit = createRandomDigit(numberOfPossibleSymbols);
-            System.out.println(randomDigit);
             if (secretCode.indexOf(randomDigit) == -1) {
                 secretCode.append(randomDigit);
             }
@@ -29,19 +28,31 @@ class SecretCode {
     }
 
     private String createRandomDigit(int numberOfPossibleSymbols) {
-        String symbols = "0123456789" + "abcdefghijklmnopqrstuvwxyz";
-
-        // Test
-//        int randomNumber = random.nextInt(numberOfPossibleSymbols);
-//        System.out.println(randomNumber + " " + symbols.charAt(randomNumber));
-
         int randomIndex = (int) (numberOfPossibleSymbols * Math.random());
-        System.out.println("Random Index created on createRandomDigit function: " + randomIndex);
-
-        char randomDigit = symbols.charAt(randomIndex);
-        System.out.println("Random Digit created on createRandomDigit function: " + randomDigit);
+        char randomDigit = this.symbols.charAt(randomIndex);
 
         return String.valueOf(randomDigit);
+    }
+
+    public String getPossibleSymbols(int numberOfPossibleSymbols) {
+        String possibleSymbols = this.symbols.substring(0, numberOfPossibleSymbols);
+        String formattedResult = "";
+
+        if (numberOfPossibleSymbols <= 10) {
+            formattedResult = String.format("(%s-%s)",
+                    possibleSymbols.charAt(0),
+                    possibleSymbols.charAt(possibleSymbols.length() - 1));
+
+            return formattedResult;
+        } else {
+            formattedResult = String.format("(%s-%s, %s-%s)", possibleSymbols.charAt(0),
+                    possibleSymbols.charAt(9),
+                    possibleSymbols.charAt(10),
+                    possibleSymbols.charAt(possibleSymbols.length() - 1)
+                    );
+
+            return formattedResult;
+        }
     }
 
 }
@@ -52,11 +63,13 @@ public class Main {
         System.out.println("Input the length of the secret code:");
         int length = scanner.nextInt();
         System.out.println("Input the number of possible symbols in the code:");
-        int possibleSymbols = scanner.nextInt();
+        int numberOfPossibleSymbols = scanner.nextInt();
 
-        SecretCode secretCodeObject = new SecretCode(length, possibleSymbols);
+        SecretCode secretCodeObject = new SecretCode(length, numberOfPossibleSymbols);
         String secretCode = secretCodeObject.getSecretCode();
-        System.out.println(secretCode);
+        String possibleSymbols = secretCodeObject.getPossibleSymbols(numberOfPossibleSymbols);
+        System.out.printf("The secret code is prepared: %s %s.", "*".repeat(secretCode.length()), possibleSymbols);
+        System.out.println();
 
         if (secretCode.equals("Error")) {
             System.out.printf("Error: can't generate a secret number with a length of %d because there aren't enough unique digits.", length);
