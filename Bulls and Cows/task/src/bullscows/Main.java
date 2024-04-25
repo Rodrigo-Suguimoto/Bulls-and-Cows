@@ -1,15 +1,71 @@
 package bullscows;
-import java.util.Random;
-
 import java.util.Scanner;
+
+class SecretCode {
+
+    private String secretCode;
+    private final String symbols = "0123456789" + "abcdefghijklmnopqrstuvwxyz";
+
+    public SecretCode(int length, int numberOfPossibleSymbols) {
+        if (length > 36) {
+            this.secretCode = "Error";
+        }
+
+        StringBuilder secretCode = new StringBuilder();
+
+        while (secretCode.length() < length) {
+            String randomDigit = createRandomDigit(numberOfPossibleSymbols);
+            if (secretCode.indexOf(randomDigit) == -1) {
+                secretCode.append(randomDigit);
+            }
+        }
+
+        this.secretCode = secretCode.toString();
+    }
+
+    public String getSecretCode() {
+        return this.secretCode;
+    }
+
+    private String createRandomDigit(int numberOfPossibleSymbols) {
+        int randomIndex = (int) (numberOfPossibleSymbols * Math.random());
+        char randomDigit = this.symbols.charAt(randomIndex);
+
+        return String.valueOf(randomDigit);
+    }
+
+    public String getPossibleSymbols(int numberOfPossibleSymbols) {
+        String possibleSymbols = this.symbols.substring(0, numberOfPossibleSymbols);
+        String formattedResult = "";
+
+        if (numberOfPossibleSymbols <= 10) {
+            formattedResult = String.format("(0-%s)",
+                    possibleSymbols.charAt(possibleSymbols.length() - 1));
+
+            return formattedResult;
+        } else {
+            formattedResult = String.format("(0-10, a-%s)",
+                    possibleSymbols.charAt(possibleSymbols.length() - 1)
+                    );
+
+            return formattedResult;
+        }
+    }
+
+}
 
 public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Please, enter the secret code's length:");
+        System.out.println("Input the length of the secret code:");
         int length = scanner.nextInt();
-        String secretCode = createTheSecretCode(length);
-        System.out.println(secretCode);
+        System.out.println("Input the number of possible symbols in the code:");
+        int numberOfPossibleSymbols = scanner.nextInt();
+
+        SecretCode secretCodeObject = new SecretCode(length, numberOfPossibleSymbols);
+        String secretCode = secretCodeObject.getSecretCode();
+        String possibleSymbols = secretCodeObject.getPossibleSymbols(numberOfPossibleSymbols);
+        System.out.printf("The secret code is prepared: %s %s.\n", "*".repeat(secretCode.length()), possibleSymbols);
 
         if (secretCode.equals("Error")) {
             System.out.printf("Error: can't generate a secret number with a length of %d because there aren't enough unique digits.", length);
@@ -32,37 +88,6 @@ public class Main {
             turn++;
         } while(!isGuessRight);
 
-    }
-
-
-    public static String createTheSecretCode(int length) {
-        if (length > 10) {
-            return "Error";
-        }
-
-        StringBuilder secretCode = new StringBuilder();
-
-        // First Digit can't be 0
-        String firstDigit;
-        do {
-            firstDigit = createRandomDigit();
-        } while (firstDigit.equals("0"));
-        secretCode.append(firstDigit);
-
-        while (secretCode.length() < length) {
-            String randomDigit = createRandomDigit();
-            if (secretCode.indexOf(randomDigit) == -1) {
-                secretCode.append(randomDigit);
-            }
-        }
-
-        return secretCode.toString();
-    }
-
-    public static String createRandomDigit() {
-        Random random = new Random();
-        int randomDigit = random.nextInt(10);
-        return String.valueOf(randomDigit);
     }
 
     public static boolean checkUserGuess(String userGuess, String secretCode) {
