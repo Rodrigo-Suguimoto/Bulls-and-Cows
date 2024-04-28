@@ -35,6 +35,9 @@
             <option value="$PROJECT_DIR$/Topics/Grouping classes with packages/Sorting arrays" />
             <option value="$PROJECT_DIR$/Topics/Grouping classes with packages/The default import" />
             <option value="$PROJECT_DIR$/Topics/Grouping classes with packages/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance/Access members inside child classes" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance/Classes for Hospital" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance/Theory" />
             <option value="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/A required part of a class" />
             <option value="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/Account and its owner" />
             <option value="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/Automatically created constructor" />
@@ -59,6 +62,12 @@
             <option value="$PROJECT_DIR$/Topics/Multidimensional array/Printing lengths of nested arrays" />
             <option value="$PROJECT_DIR$/Topics/Multidimensional array/Sorting a square matrix display on the command-line" />
             <option value="$PROJECT_DIR$/Topics/Multidimensional array/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Overloading/A pair of not overloaded methods" />
+            <option value="$PROJECT_DIR$/Topics/Overloading/A pair of overloaded methods" />
+            <option value="$PROJECT_DIR$/Topics/Overloading/Calculations with two or three numbers from input" />
+            <option value="$PROJECT_DIR$/Topics/Overloading/Implementing polymorphic add functions" />
+            <option value="$PROJECT_DIR$/Topics/Overloading/Processing integers and floats differently" />
+            <option value="$PROJECT_DIR$/Topics/Overloading/Theory" />
             <option value="$PROJECT_DIR$/Topics/Processing strings/Complete the code to reverse a string" />
             <option value="$PROJECT_DIR$/Topics/Processing strings/Determine the value" />
             <option value="$PROJECT_DIR$/Topics/Processing strings/Finding the longest word in a sentence" />

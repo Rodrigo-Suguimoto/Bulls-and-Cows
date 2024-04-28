@@ -1,0 +1,25 @@
+type: code
+files:
+  - name: src/Main.java
+    visible: true
+    text: "import java.util.*;\n\npublic class Main {\n    // Method to read input from\
+    \ user and separate the integers\n    public static void processInputAndCallFunctions()\
+    \ {\n        Scanner scn = new Scanner(System.in);\n        String inputString\
+    \ = scn.nextLine();\n        String[] strArr = inputString.split(\" \");\n   \
+    \     int[] intArr = new int[strArr.length];\n        for (int i = 0; i < strArr.length;\
+    \ i++) {\n            intArr[i] = Integer.parseInt(strArr[i]);\n        }\n\n\
+    \        // Call the appropriate function depending on the number of integers\
+    \ in the input\n        if (intArr.length == 2) {\n            // Call calculate(int,\
+    \ int) \n            // TO DO: Fill in the appropriate code here\n        } else\
+    \ if (intArr.length == 3) {\n            // Call calculate(int, int, int)\n  \
+    \          // TO DO: Fill in the appropriate code here\n        }\n    }\n\n \
+    \   public static void main(String[] args) {\n        processInputAndCallFunctions();\n\
+    \    }\n}"
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/44754#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Fri, 26 Apr 2024 11:46:04 UTC"
+record: -1
+submission_language: java17

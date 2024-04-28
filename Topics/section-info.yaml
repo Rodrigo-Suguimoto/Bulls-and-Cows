@@ -5,3 +5,5 @@ content:
   - Instance methods
   - Initializing new instances. Constructor
   - Access modifiers
+  - Overloading
+  - Inheritance

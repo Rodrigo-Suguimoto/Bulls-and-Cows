@@ -44,7 +44,7 @@ class SecretCode {
 
             return formattedResult;
         } else {
-            formattedResult = String.format("(0-10, a-%s)",
+            formattedResult = String.format("(0-9, a-%s)",
                     possibleSymbols.charAt(possibleSymbols.length() - 1)
                     );
 
