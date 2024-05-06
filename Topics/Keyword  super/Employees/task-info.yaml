@@ -1,0 +1,40 @@
+type: code
+files:
+  - name: src/Main.java
+    visible: true
+    highlight_level: NONE
+    text: |-
+      class Employee {
+      
+          // write fields
+      
+          // write constructor
+      
+          // write getters
+      }
+      
+      class Developer extends Employee {
+      
+          // write fields
+      
+          // write constructor
+      
+          // write getters
+      }
+      
+      class DataAnalyst extends Employee {
+      
+          // write fields
+      
+          // write constructor
+      
+          // write getters
+      }
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2206#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Tue, 30 Apr 2024 10:38:09 UTC"
+record: -1
+submission_language: java17

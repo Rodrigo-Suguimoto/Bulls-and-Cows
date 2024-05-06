@@ -7,3 +7,7 @@ content:
   - Access modifiers
   - Overloading
   - Inheritance
+  - Multiple constructors
+  - Keyword  super
+  - Hierarchy of exceptions
+  - Exception handling

@@ -8,19 +8,23 @@ class SecretCode {
 
     public SecretCode(int length, int numberOfPossibleSymbols) {
         if (length > 36) {
-            this.secretCode = "Error";
-        }
+            this.secretCode = String.format("Error: can't generate a secret number with a length of %d because there aren't enough unique digits.", length);
+        } else if (numberOfPossibleSymbols < length) {
+            this.secretCode = String.format("Error: it's not possible to generate a code with a length of %d with %d unique symbols.",
+                    length, numberOfPossibleSymbols);
+        } else {
+            StringBuilder secretCode = new StringBuilder();
 
-        StringBuilder secretCode = new StringBuilder();
-
-        while (secretCode.length() < length) {
-            String randomDigit = createRandomDigit(numberOfPossibleSymbols);
-            if (secretCode.indexOf(randomDigit) == -1) {
-                secretCode.append(randomDigit);
+            while (secretCode.length() < length) {
+                String randomDigit = createRandomDigit(numberOfPossibleSymbols);
+                if (secretCode.indexOf(randomDigit) == -1) {
+                    secretCode.append(randomDigit);
+                }
             }
+
+            this.secretCode = secretCode.toString();
         }
 
-        this.secretCode = secretCode.toString();
     }
 
     public String getSecretCode() {
@@ -64,15 +68,16 @@ public class Main {
 
         SecretCode secretCodeObject = new SecretCode(length, numberOfPossibleSymbols);
         String secretCode = secretCodeObject.getSecretCode();
-        String possibleSymbols = secretCodeObject.getPossibleSymbols(numberOfPossibleSymbols);
-        System.out.printf("The secret code is prepared: %s %s.\n", "*".repeat(secretCode.length()), possibleSymbols);
 
-        if (secretCode.equals("Error")) {
-            System.out.printf("Error: can't generate a secret number with a length of %d because there aren't enough unique digits.", length);
+        if (secretCode.contains("Error")) {
+            System.out.println(secretCode);
         } else {
+            String possibleSymbols = secretCodeObject.getPossibleSymbols(numberOfPossibleSymbols);
+            System.out.printf("The secret code is prepared: %s %s.\n", "*".repeat(secretCode.length()), possibleSymbols);
             System.out.println("Okay, let's start a game!");
             tryUserGuesses(scanner, secretCode);
         }
+
     }
 
     public static void tryUserGuesses(Scanner scanner, String secretCode) {

@@ -5,41 +5,275 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ac3c22bf-6367-487b-ab67-1098457e043b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Overloading/A pair of not overloaded methods/Bulls_and_Cows.Topics-Overloading-A_pair_of_not_overloaded_methods.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Overloading/A pair of not overloaded methods/Bulls_and_Cows.Topics-Overloading-A_pair_of_not_overloaded_methods.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Overloading/A pair of not overloaded methods/Bulls_and_Cows.Topics-Overloading-A_pair_of_not_overloaded_methods.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Overloading/A pair of overloaded methods/Bulls_and_Cows.Topics-Overloading-A_pair_of_overloaded_methods.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Overloading/A pair of overloaded methods/Bulls_and_Cows.Topics-Overloading-A_pair_of_overloaded_methods.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Overloading/A pair of overloaded methods/Bulls_and_Cows.Topics-Overloading-A_pair_of_overloaded_methods.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Overloading/Calculations with two or three numbers from input/Bulls_and_Cows.Topics-Overloading-Calculations_with_two_or_three_numbers_from_input.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Overloading/Calculations with two or three numbers from input/Bulls_and_Cows.Topics-Overloading-Calculations_with_two_or_three_numbers_from_input.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Overloading/Calculations with two or three numbers from input/Bulls_and_Cows.Topics-Overloading-Calculations_with_two_or_three_numbers_from_input.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Overloading/Implementing polymorphic add functions/Bulls_and_Cows.Topics-Overloading-Implementing_polymorphic_add_functions.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Overloading/Implementing polymorphic add functions/Bulls_and_Cows.Topics-Overloading-Implementing_polymorphic_add_functions.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Overloading/Implementing polymorphic add functions/Bulls_and_Cows.Topics-Overloading-Implementing_polymorphic_add_functions.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Overloading/Processing integers and floats differently/Bulls_and_Cows.Topics-Overloading-Processing_integers_and_floats_differently.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Overloading/Processing integers and floats differently/Bulls_and_Cows.Topics-Overloading-Processing_integers_and_floats_differently.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Overloading/Processing integers and floats differently/Bulls_and_Cows.Topics-Overloading-Processing_integers_and_floats_differently.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Overloading/Theory/Bulls_and_Cows.Topics-Overloading-Theory.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Overloading/Theory/Bulls_and_Cows.Topics-Overloading-Theory.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Overloading/Theory/Bulls_and_Cows.Topics-Overloading-Theory.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Inheritance/Access members inside child classes/src/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Inheritance/Access members inside child classes/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Inheritance/Access members inside child classes/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Inheritance/Access members inside child classes/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Inheritance/Classes for Hospital/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Inheritance/Classes for Hospital/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Inheritance/Classes for Hospital/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Inheritance/Classes for Hospital/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Inheritance/Theory/src/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Inheritance/Theory/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Inheritance/Theory/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Inheritance/Theory/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Inheritance/lesson-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Overloading/Calculations with two or three numbers from input/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Overloading/Calculations with two or three numbers from input/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Overloading/Calculations with two or three numbers from input/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Overloading/Calculations with two or three numbers from input/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Exception handling/Executed blocks/Bulls_and_Cows.Topics-Exception_handling-Executed_blocks.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Exception handling/Executed blocks/Bulls_and_Cows.Topics-Exception_handling-Executed_blocks.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Exception handling/Executed blocks/Bulls_and_Cows.Topics-Exception_handling-Executed_blocks.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Exception handling/Method named process/Bulls_and_Cows.Topics-Exception_handling-Method_named_process.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Exception handling/Method named process/Bulls_and_Cows.Topics-Exception_handling-Method_named_process.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Exception handling/Method named process/Bulls_and_Cows.Topics-Exception_handling-Method_named_process.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Exception handling/Resolving the 'Divide by Zero' error in an application/Bulls_and_Cows.Topics-Exception_handling-Resolving_the_'Divide_by_Zero'_error_in_an_application.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Exception handling/Resolving the 'Divide by Zero' error in an application/Bulls_and_Cows.Topics-Exception_handling-Resolving_the_'Divide_by_Zero'_error_in_an_application.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Exception handling/Resolving the 'Divide by Zero' error in an application/Bulls_and_Cows.Topics-Exception_handling-Resolving_the_'Divide_by_Zero'_error_in_an_application.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Exception handling/String to double conversion/Bulls_and_Cows.Topics-Exception_handling-String_to_double_conversion.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Exception handling/String to double conversion/Bulls_and_Cows.Topics-Exception_handling-String_to_double_conversion.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Exception handling/String to double conversion/Bulls_and_Cows.Topics-Exception_handling-String_to_double_conversion.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Exception handling/The order of blocks/Bulls_and_Cows.Topics-Exception_handling-The_order_of_blocks.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Exception handling/The order of blocks/Bulls_and_Cows.Topics-Exception_handling-The_order_of_blocks.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Exception handling/The order of blocks/Bulls_and_Cows.Topics-Exception_handling-The_order_of_blocks.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Exception handling/Theory/Bulls_and_Cows.Topics-Exception_handling-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Exception handling/Theory/Bulls_and_Cows.Topics-Exception_handling-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Exception handling/Theory/Bulls_and_Cows.Topics-Exception_handling-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Exception handling/What does the code print/Bulls_and_Cows.Topics-Exception_handling-What_does_the_code_print.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Exception handling/What does the code print/Bulls_and_Cows.Topics-Exception_handling-What_does_the_code_print.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Exception handling/What does the code print/Bulls_and_Cows.Topics-Exception_handling-What_does_the_code_print.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Exception handling/What exceptions can be handled/Bulls_and_Cows.Topics-Exception_handling-What_exceptions_can_be_handled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Exception handling/What exceptions can be handled/Bulls_and_Cows.Topics-Exception_handling-What_exceptions_can_be_handled.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Exception handling/What exceptions can be handled/Bulls_and_Cows.Topics-Exception_handling-What_exceptions_can_be_handled.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Hierarchy of exceptions/Base class/Bulls_and_Cows.Topics-Hierarchy_of_exceptions-Base_class.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Hierarchy of exceptions/Base class/Bulls_and_Cows.Topics-Hierarchy_of_exceptions-Base_class.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Hierarchy of exceptions/Base class/Bulls_and_Cows.Topics-Hierarchy_of_exceptions-Base_class.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Hierarchy of exceptions/Checked exceptions/Bulls_and_Cows.Topics-Hierarchy_of_exceptions-Checked_exceptions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Hierarchy of exceptions/Checked exceptions/Bulls_and_Cows.Topics-Hierarchy_of_exceptions-Checked_exceptions.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Hierarchy of exceptions/Checked exceptions/Bulls_and_Cows.Topics-Hierarchy_of_exceptions-Checked_exceptions.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Hierarchy of exceptions/Overview the hierarchy (1)/Bulls_and_Cows.Topics-Hierarchy_of_exceptions-Overview_the_hierarchy__1_.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Hierarchy of exceptions/Overview the hierarchy (1)/Bulls_and_Cows.Topics-Hierarchy_of_exceptions-Overview_the_hierarchy__1_.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Hierarchy of exceptions/Overview the hierarchy (1)/Bulls_and_Cows.Topics-Hierarchy_of_exceptions-Overview_the_hierarchy__1_.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Hierarchy of exceptions/Overview the hierarchy/Bulls_and_Cows.Topics-Hierarchy_of_exceptions-Overview_the_hierarchy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Hierarchy of exceptions/Overview the hierarchy/Bulls_and_Cows.Topics-Hierarchy_of_exceptions-Overview_the_hierarchy.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Hierarchy of exceptions/Overview the hierarchy/Bulls_and_Cows.Topics-Hierarchy_of_exceptions-Overview_the_hierarchy.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Hierarchy of exceptions/Subclasses of Exception/Bulls_and_Cows.Topics-Hierarchy_of_exceptions-Subclasses_of_Exception.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Hierarchy of exceptions/Subclasses of Exception/Bulls_and_Cows.Topics-Hierarchy_of_exceptions-Subclasses_of_Exception.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Hierarchy of exceptions/Subclasses of Exception/Bulls_and_Cows.Topics-Hierarchy_of_exceptions-Subclasses_of_Exception.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Hierarchy of exceptions/Theory/Bulls_and_Cows.Topics-Hierarchy_of_exceptions-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Hierarchy of exceptions/Theory/Bulls_and_Cows.Topics-Hierarchy_of_exceptions-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Hierarchy of exceptions/Theory/Bulls_and_Cows.Topics-Hierarchy_of_exceptions-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Inheritance/Access members inside child classes/Bulls_and_Cows.Topics-Inheritance-Access_members_inside_child_classes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Inheritance/Access members inside child classes/Bulls_and_Cows.Topics-Inheritance-Access_members_inside_child_classes.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Inheritance/Access members inside child classes/Bulls_and_Cows.Topics-Inheritance-Access_members_inside_child_classes.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Inheritance/Classes for Hospital/Bulls_and_Cows.Topics-Inheritance-Classes_for_Hospital.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Inheritance/Classes for Hospital/Bulls_and_Cows.Topics-Inheritance-Classes_for_Hospital.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Inheritance/Classes for Hospital/Bulls_and_Cows.Topics-Inheritance-Classes_for_Hospital.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Inheritance/Theory/Bulls_and_Cows.Topics-Inheritance-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Inheritance/Theory/Bulls_and_Cows.Topics-Inheritance-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Inheritance/Theory/Bulls_and_Cows.Topics-Inheritance-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Keyword  super/Accessing constructors of a base class/Bulls_and_Cows.Topics-Keyword__super-Accessing_constructors_of_a_base_class.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Keyword  super/Accessing constructors of a base class/Bulls_and_Cows.Topics-Keyword__super-Accessing_constructors_of_a_base_class.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Keyword  super/Accessing constructors of a base class/Bulls_and_Cows.Topics-Keyword__super-Accessing_constructors_of_a_base_class.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Keyword  super/Bank account/Bulls_and_Cows.Topics-Keyword__super-Bank_account.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Keyword  super/Bank account/Bulls_and_Cows.Topics-Keyword__super-Bank_account.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Keyword  super/Bank account/Bulls_and_Cows.Topics-Keyword__super-Bank_account.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Keyword  super/Calling parent class constructor in derived class/Bulls_and_Cows.Topics-Keyword__super-Calling_parent_class_constructor_in_derived_class.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Keyword  super/Calling parent class constructor in derived class/Bulls_and_Cows.Topics-Keyword__super-Calling_parent_class_constructor_in_derived_class.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Keyword  super/Calling parent class constructor in derived class/Bulls_and_Cows.Topics-Keyword__super-Calling_parent_class_constructor_in_derived_class.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Keyword  super/Employees/Bulls_and_Cows.Topics-Keyword__super-Employees.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Keyword  super/Employees/Bulls_and_Cows.Topics-Keyword__super-Employees.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Keyword  super/Employees/Bulls_and_Cows.Topics-Keyword__super-Employees.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Keyword  super/Fix the non-compiled hierarchy/Bulls_and_Cows.Topics-Keyword__super-Fix_the_non-compiled_hierarchy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Keyword  super/Fix the non-compiled hierarchy/Bulls_and_Cows.Topics-Keyword__super-Fix_the_non-compiled_hierarchy.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Keyword  super/Fix the non-compiled hierarchy/Bulls_and_Cows.Topics-Keyword__super-Fix_the_non-compiled_hierarchy.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Keyword  super/Implementing parent class constructor in child class/Bulls_and_Cows.Topics-Keyword__super-Implementing_parent_class_constructor_in_child_class.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Keyword  super/Implementing parent class constructor in child class/Bulls_and_Cows.Topics-Keyword__super-Implementing_parent_class_constructor_in_child_class.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Keyword  super/Implementing parent class constructor in child class/Bulls_and_Cows.Topics-Keyword__super-Implementing_parent_class_constructor_in_child_class.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Keyword  super/Inheritance and constructor usage in pet namespace/Bulls_and_Cows.Topics-Keyword__super-Inheritance_and_constructor_usage_in_pet_namespace.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Keyword  super/Inheritance and constructor usage in pet namespace/Bulls_and_Cows.Topics-Keyword__super-Inheritance_and_constructor_usage_in_pet_namespace.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Keyword  super/Inheritance and constructor usage in pet namespace/Bulls_and_Cows.Topics-Keyword__super-Inheritance_and_constructor_usage_in_pet_namespace.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Keyword  super/Inheriting shapes with constructors/Bulls_and_Cows.Topics-Keyword__super-Inheriting_shapes_with_constructors.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Keyword  super/Inheriting shapes with constructors/Bulls_and_Cows.Topics-Keyword__super-Inheriting_shapes_with_constructors.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Keyword  super/Inheriting shapes with constructors/Bulls_and_Cows.Topics-Keyword__super-Inheriting_shapes_with_constructors.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Keyword  super/Statements/Bulls_and_Cows.Topics-Keyword__super-Statements.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Keyword  super/Statements/Bulls_and_Cows.Topics-Keyword__super-Statements.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Keyword  super/Statements/Bulls_and_Cows.Topics-Keyword__super-Statements.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Keyword  super/Theory/Bulls_and_Cows.Topics-Keyword__super-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Keyword  super/Theory/Bulls_and_Cows.Topics-Keyword__super-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Keyword  super/Theory/Bulls_and_Cows.Topics-Keyword__super-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Keyword  super/When the keyword cannot be used/Bulls_and_Cows.Topics-Keyword__super-When_the_keyword_cannot_be_used.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Keyword  super/When the keyword cannot be used/Bulls_and_Cows.Topics-Keyword__super-When_the_keyword_cannot_be_used.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Keyword  super/When the keyword cannot be used/Bulls_and_Cows.Topics-Keyword__super-When_the_keyword_cannot_be_used.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Keyword  super/When the keyword is used/Bulls_and_Cows.Topics-Keyword__super-When_the_keyword_is_used.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Keyword  super/When the keyword is used/Bulls_and_Cows.Topics-Keyword__super-When_the_keyword_is_used.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Keyword  super/When the keyword is used/Bulls_and_Cows.Topics-Keyword__super-When_the_keyword_is_used.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Keyword  super/Why we use the super keyword/Bulls_and_Cows.Topics-Keyword__super-Why_we_use_the_super_keyword.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Keyword  super/Why we use the super keyword/Bulls_and_Cows.Topics-Keyword__super-Why_we_use_the_super_keyword.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Keyword  super/Why we use the super keyword/Bulls_and_Cows.Topics-Keyword__super-Why_we_use_the_super_keyword.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multiple constructors/About constructors/Bulls_and_Cows.Topics-Multiple_constructors-About_constructors.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multiple constructors/About constructors/Bulls_and_Cows.Topics-Multiple_constructors-About_constructors.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multiple constructors/About constructors/Bulls_and_Cows.Topics-Multiple_constructors-About_constructors.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multiple constructors/Class instantiation/Bulls_and_Cows.Topics-Multiple_constructors-Class_instantiation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multiple constructors/Class instantiation/Bulls_and_Cows.Topics-Multiple_constructors-Class_instantiation.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multiple constructors/Class instantiation/Bulls_and_Cows.Topics-Multiple_constructors-Class_instantiation.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multiple constructors/Creating a vehicle management system with default values/Bulls_and_Cows.Topics-Multiple_constructors-Creating_a_vehicle_management_system_with_default_values.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multiple constructors/Creating a vehicle management system with default values/Bulls_and_Cows.Topics-Multiple_constructors-Creating_a_vehicle_management_system_with_default_values.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multiple constructors/Creating a vehicle management system with default values/Bulls_and_Cows.Topics-Multiple_constructors-Creating_a_vehicle_management_system_with_default_values.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multiple constructors/Employee/Bulls_and_Cows.Topics-Multiple_constructors-Employee.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multiple constructors/Employee/Bulls_and_Cows.Topics-Multiple_constructors-Employee.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multiple constructors/Employee/Bulls_and_Cows.Topics-Multiple_constructors-Employee.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multiple constructors/Exploring Constructors in Java's Rectangle Class/Bulls_and_Cows.Topics-Multiple_constructors-Exploring_Constructors_in_Java's_Rectangle_Class.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multiple constructors/Exploring Constructors in Java's Rectangle Class/Bulls_and_Cows.Topics-Multiple_constructors-Exploring_Constructors_in_Java's_Rectangle_Class.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multiple constructors/Exploring Constructors in Java's Rectangle Class/Bulls_and_Cows.Topics-Multiple_constructors-Exploring_Constructors_in_Java's_Rectangle_Class.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multiple constructors/Phone/Bulls_and_Cows.Topics-Multiple_constructors-Phone.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multiple constructors/Phone/Bulls_and_Cows.Topics-Multiple_constructors-Phone.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multiple constructors/Phone/Bulls_and_Cows.Topics-Multiple_constructors-Phone.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multiple constructors/Suppose, you have a class/Bulls_and_Cows.Topics-Multiple_constructors-Suppose,_you_have_a_class.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multiple constructors/Suppose, you have a class/Bulls_and_Cows.Topics-Multiple_constructors-Suppose,_you_have_a_class.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multiple constructors/Suppose, you have a class/Bulls_and_Cows.Topics-Multiple_constructors-Suppose,_you_have_a_class.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multiple constructors/Theory/Bulls_and_Cows.Topics-Multiple_constructors-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multiple constructors/Theory/Bulls_and_Cows.Topics-Multiple_constructors-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multiple constructors/Theory/Bulls_and_Cows.Topics-Multiple_constructors-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multiple constructors/Time/Bulls_and_Cows.Topics-Multiple_constructors-Time.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multiple constructors/Time/Bulls_and_Cows.Topics-Multiple_constructors-Time.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multiple constructors/Time/Bulls_and_Cows.Topics-Multiple_constructors-Time.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Exception handling/Executed blocks/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Exception handling/Executed blocks/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Exception handling/Executed blocks/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Exception handling/Executed blocks/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Exception handling/Method named process/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Exception handling/Method named process/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Exception handling/Method named process/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Exception handling/Method named process/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Exception handling/Resolving the 'Divide by Zero' error in an application/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Exception handling/Resolving the 'Divide by Zero' error in an application/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Exception handling/Resolving the 'Divide by Zero' error in an application/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Exception handling/Resolving the 'Divide by Zero' error in an application/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Exception handling/String to double conversion/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Exception handling/String to double conversion/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Exception handling/String to double conversion/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Exception handling/String to double conversion/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Exception handling/The order of blocks/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Exception handling/The order of blocks/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Exception handling/The order of blocks/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Exception handling/The order of blocks/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Exception handling/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Exception handling/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Exception handling/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Exception handling/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Exception handling/What does the code print/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Exception handling/What does the code print/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Exception handling/What does the code print/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Exception handling/What does the code print/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Exception handling/What exceptions can be handled/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Exception handling/What exceptions can be handled/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Exception handling/What exceptions can be handled/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Exception handling/What exceptions can be handled/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Exception handling/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Hierarchy of exceptions/Base class/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Hierarchy of exceptions/Base class/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Hierarchy of exceptions/Base class/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Hierarchy of exceptions/Base class/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Hierarchy of exceptions/Checked exceptions/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Hierarchy of exceptions/Checked exceptions/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Hierarchy of exceptions/Checked exceptions/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Hierarchy of exceptions/Checked exceptions/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Hierarchy of exceptions/Overview the hierarchy (1)/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Hierarchy of exceptions/Overview the hierarchy (1)/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Hierarchy of exceptions/Overview the hierarchy (1)/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Hierarchy of exceptions/Overview the hierarchy (1)/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Hierarchy of exceptions/Overview the hierarchy/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Hierarchy of exceptions/Overview the hierarchy/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Hierarchy of exceptions/Overview the hierarchy/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Hierarchy of exceptions/Overview the hierarchy/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Hierarchy of exceptions/Subclasses of Exception/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Hierarchy of exceptions/Subclasses of Exception/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Hierarchy of exceptions/Subclasses of Exception/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Hierarchy of exceptions/Subclasses of Exception/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Hierarchy of exceptions/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Hierarchy of exceptions/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Hierarchy of exceptions/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Hierarchy of exceptions/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Hierarchy of exceptions/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Keyword  super/Accessing constructors of a base class/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Keyword  super/Accessing constructors of a base class/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Keyword  super/Accessing constructors of a base class/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Keyword  super/Accessing constructors of a base class/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Keyword  super/Bank account/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Keyword  super/Bank account/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Keyword  super/Bank account/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Keyword  super/Bank account/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Keyword  super/Calling parent class constructor in derived class/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Keyword  super/Calling parent class constructor in derived class/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Keyword  super/Calling parent class constructor in derived class/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Keyword  super/Calling parent class constructor in derived class/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Keyword  super/Class hierarchy/answer.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Keyword  super/Class hierarchy/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Keyword  super/Class hierarchy/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Keyword  super/Class hierarchy/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Keyword  super/Employees/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Keyword  super/Employees/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Keyword  super/Employees/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Keyword  super/Employees/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Keyword  super/Fix the non-compiled hierarchy/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Keyword  super/Fix the non-compiled hierarchy/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Keyword  super/Fix the non-compiled hierarchy/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Keyword  super/Fix the non-compiled hierarchy/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Keyword  super/Implementing parent class constructor in child class/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Keyword  super/Implementing parent class constructor in child class/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Keyword  super/Implementing parent class constructor in child class/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Keyword  super/Implementing parent class constructor in child class/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Keyword  super/Inheritance and constructor usage in pet namespace/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Keyword  super/Inheritance and constructor usage in pet namespace/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Keyword  super/Inheritance and constructor usage in pet namespace/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Keyword  super/Inheritance and constructor usage in pet namespace/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Keyword  super/Inheriting shapes with constructors/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Keyword  super/Inheriting shapes with constructors/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Keyword  super/Inheriting shapes with constructors/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Keyword  super/Inheriting shapes with constructors/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Keyword  super/Statements/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Keyword  super/Statements/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Keyword  super/Statements/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Keyword  super/Statements/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Keyword  super/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Keyword  super/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Keyword  super/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Keyword  super/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Keyword  super/When the keyword cannot be used/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Keyword  super/When the keyword cannot be used/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Keyword  super/When the keyword cannot be used/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Keyword  super/When the keyword cannot be used/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Keyword  super/When the keyword is used/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Keyword  super/When the keyword is used/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Keyword  super/When the keyword is used/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Keyword  super/When the keyword is used/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Keyword  super/Why we use the super keyword/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Keyword  super/Why we use the super keyword/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Keyword  super/Why we use the super keyword/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Keyword  super/Why we use the super keyword/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Keyword  super/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple constructors/About constructors/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple constructors/About constructors/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple constructors/About constructors/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple constructors/About constructors/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple constructors/Class instantiation/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple constructors/Class instantiation/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple constructors/Class instantiation/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple constructors/Class instantiation/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple constructors/Creating a vehicle management system with default values/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple constructors/Creating a vehicle management system with default values/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple constructors/Creating a vehicle management system with default values/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple constructors/Creating a vehicle management system with default values/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple constructors/Employee/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple constructors/Employee/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple constructors/Employee/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple constructors/Employee/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple constructors/Exploring Constructors in Java's Rectangle Class/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple constructors/Exploring Constructors in Java's Rectangle Class/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple constructors/Exploring Constructors in Java's Rectangle Class/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple constructors/Exploring Constructors in Java's Rectangle Class/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple constructors/Phone/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple constructors/Phone/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple constructors/Phone/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple constructors/Phone/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple constructors/Suppose, you have a class/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple constructors/Suppose, you have a class/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple constructors/Suppose, you have a class/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple constructors/Suppose, you have a class/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple constructors/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple constructors/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple constructors/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple constructors/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple constructors/Time/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple constructors/Time/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple constructors/Time/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple constructors/Time/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple constructors/lesson-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/checksums/checksums.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/checksums/sha1-checksums.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.bin" afterDir="false" />
@@ -47,18 +281,28 @@
       <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bulls and Cows/New level/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Bulls and Cows/New level/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bulls and Cows/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Bulls and Cows/lesson-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Bulls and Cows/task/src/bullscows/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Bulls and Cows/task/src/bullscows/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bulls and Cows/task/test/BullsCowsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Bulls and Cows/task/test/BullsCowsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Overloading/Processing integers and floats differently/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Overloading/Processing integers and floats differently/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Overloading/Processing integers and floats differently/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Overloading/Processing integers and floats differently/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Overloading/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Overloading/lesson-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Access modifiers/Theory/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Access modifiers/Theory/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Access modifiers/Theory/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Access modifiers/Theory/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Grouping classes with packages/Theory/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Grouping classes with packages/Theory/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Grouping classes with packages/Theory/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Grouping classes with packages/Theory/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Inheritance/Classes for Hospital/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Inheritance/Classes for Hospital/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Inheritance/Classes for Hospital/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Inheritance/Classes for Hospital/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Inheritance/Theory/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Inheritance/Theory/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Inheritance/Theory/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Inheritance/Theory/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/Theory/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/Theory/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/Theory/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/Theory/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Instance methods/Theory/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Instance methods/Theory/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Instance methods/Theory/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Instance methods/Theory/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Multidimensional array/Theory/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Multidimensional array/Theory/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Multidimensional array/Theory/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Multidimensional array/Theory/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Overloading/Theory/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Overloading/Theory/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Overloading/Theory/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Overloading/Theory/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Processing strings/Theory/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Processing strings/Theory/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Processing strings/Theory/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Processing strings/Theory/task.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Topics/section-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/section-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/course-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
     </list>
@@ -113,6 +357,14 @@
     <setting file="file://$PROJECT_DIR$/Topics/Access modifiers/Suitable modifiers/src/Task.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Access modifiers/Theory/src/Task.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Access modifiers/Types of access modifiers/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Exception handling/Executed blocks/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Exception handling/Method named process/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Exception handling/Resolving the 'Divide by Zero' error in an application/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Exception handling/String to double conversion/src/Main.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Exception handling/The order of blocks/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Exception handling/Theory/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Exception handling/What does the code print/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Exception handling/What exceptions can be handled/src/Task.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Grouping classes with packages/Calculating package shipping cost by weight/src/Main.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Grouping classes with packages/Fixing a greeting program/src/Task.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Grouping classes with packages/Package features/src/Task.java" root0="FORCE_HIGHLIGHTING" />
@@ -120,6 +372,15 @@
     <setting file="file://$PROJECT_DIR$/Topics/Grouping classes with packages/Sorting arrays/src/Main.java" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Grouping classes with packages/The default import/src/Task.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Grouping classes with packages/Theory/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Hierarchy of exceptions/Base class/src/Main.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Hierarchy of exceptions/Checked exceptions/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Hierarchy of exceptions/Overview the hierarchy (1)/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Hierarchy of exceptions/Overview the hierarchy/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Hierarchy of exceptions/Subclasses of Exception/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Hierarchy of exceptions/Theory/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Inheritance/Access members inside child classes/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Inheritance/Classes for Hospital/src/Main.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Inheritance/Theory/src/Task.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Initializing new instances. Constructor/A required part of a class/src/Task.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Initializing new instances. Constructor/Account and its owner/src/Main.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Initializing new instances. Constructor/Automatically created constructor/src/Task.java" root0="FORCE_HIGHLIGHTING" />
@@ -135,6 +396,20 @@
     <setting file="file://$PROJECT_DIR$/Topics/Instance methods/In a box/src/Main.java" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Instance methods/Invoke instance method/src/Task.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Instance methods/Theory/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Keyword  super/Accessing constructors of a base class/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Keyword  super/Bank account/src/Main.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Keyword  super/Calling parent class constructor in derived class/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Keyword  super/Class hierarchy/answer.txt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Keyword  super/Employees/src/Main.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Keyword  super/Fix the non-compiled hierarchy/src/Main.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Keyword  super/Implementing parent class constructor in child class/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Keyword  super/Inheritance and constructor usage in pet namespace/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Keyword  super/Inheriting shapes with constructors/src/Main.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Keyword  super/Statements/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Keyword  super/Theory/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Keyword  super/When the keyword cannot be used/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Keyword  super/When the keyword is used/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Keyword  super/Why we use the super keyword/src/Task.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Multidimensional array/Create cube/src/Main.java" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Multidimensional array/Fill the matrix by numbers/src/Main.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Multidimensional array/Find the corners/src/Main.java" root0="SKIP_HIGHLIGHTING" />
@@ -144,6 +419,15 @@
     <setting file="file://$PROJECT_DIR$/Topics/Multidimensional array/Printing lengths of nested arrays/src/Task.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Multidimensional array/Sorting a square matrix display on the command-line/src/Task.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Multidimensional array/Theory/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Multiple constructors/About constructors/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Multiple constructors/Class instantiation/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Multiple constructors/Creating a vehicle management system with default values/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Multiple constructors/Employee/src/Main.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Multiple constructors/Exploring Constructors in Java's Rectangle Class/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Multiple constructors/Phone/src/Main.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Multiple constructors/Suppose, you have a class/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Multiple constructors/Theory/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Multiple constructors/Time/src/Main.java" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Overloading/A pair of not overloaded methods/src/Task.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Overloading/A pair of overloaded methods/src/Task.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Overloading/Calculations with two or three numbers from input/src/Main.java" root0="FORCE_HIGHLIGHTING" />
