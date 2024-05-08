@@ -1,5 +1,4 @@
 package bullscows;
-import java.util.InputMismatchException;
 import java.util.Scanner;
 
 class SecretCode {
@@ -13,7 +12,10 @@ class SecretCode {
         } else if (numberOfPossibleSymbols < length) {
             this.secretCode = String.format("Error: it's not possible to generate a code with a length of %d with %d unique symbols.",
                     length, numberOfPossibleSymbols);
-        } else {
+        } else if (numberOfPossibleSymbols > 36) {
+            this.secretCode = "Error: maximum number of possible symbols in the code is 36 (0-9, a-z).";
+        }
+        else {
             StringBuilder secretCode = new StringBuilder();
 
             while (secretCode.length() < length) {
@@ -61,44 +63,57 @@ class SecretCode {
 
 public class Main {
     public static void main(String[] args) {
-        int length = getLengthInputFromUser();
-
-//        System.out.println("Input the number of possible symbols in the code:");
-//        int numberOfPossibleSymbols = scanner.nextInt();
-//
-//        SecretCode secretCodeObject = new SecretCode(length, numberOfPossibleSymbols);
-//        String secretCode = secretCodeObject.getSecretCode();
-//
-//        if (secretCode.contains("Error")) {
-//            System.out.println(secretCode);
-//        } else {
-//            String possibleSymbols = secretCodeObject.getPossibleSymbols(numberOfPossibleSymbols);
-//            System.out.printf("The secret code is prepared: %s %s.\n", "*".repeat(secretCode.length()), possibleSymbols);
-//            System.out.println("Okay, let's start a game!");
-//            tryUserGuesses(scanner, secretCode);
-//        }
-
-    }
-
-    public static int getLengthInputFromUser() {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Input the length of the secret code:");
         String userInputLength = scanner.nextLine();
-        int length = 0;
+        if (userInputLength.equals("0")) {
+            System.out.println("Error: you can't have a code with length 0. Please provide a valid number.");
+            return;
+        }
+
+        int length = convertToInt(userInputLength);
+        if (length == 0) return;
+
+        System.out.println("Input the number of possible symbols in the code:");
+        String userInputNumberOfPossibleSymbols = scanner.nextLine();
+        if (userInputNumberOfPossibleSymbols.equals("0")) {
+            System.out.println("Error: you can't have a code with 0 symbols. Please provide a valid number.");
+            return;
+        }
+
+        int numberOfPossibleSymbols = convertToInt(userInputNumberOfPossibleSymbols);
+        if (numberOfPossibleSymbols == 0) return;
+
+        SecretCode secretCodeObject = new SecretCode(length, numberOfPossibleSymbols);
+        String secretCode = secretCodeObject.getSecretCode();
+
+        if (secretCode.contains("Error")) {
+            System.out.println(secretCode);
+        } else {
+            String possibleSymbols = secretCodeObject.getPossibleSymbols(numberOfPossibleSymbols);
+            System.out.printf("The secret code is prepared: %s %s.\n", "*".repeat(secretCode.length()), possibleSymbols);
+            System.out.println("Okay, let's start a game!");
+            tryUserGuesses(scanner, secretCode);
+        }
+
+    }
+
+    public static int convertToInt(String userInput) {
+        int number = 0;
 
         try {
-            length = Integer.parseInt(userInputLength);
+            number = Integer.parseInt(userInput);
         } catch (NumberFormatException e) {
-            System.out.printf("\"%s\" isn't a valid number", userInputLength);
+            System.out.printf("Error: \"%s\" isn't a valid number", userInput);
             System.out.println();
         }
 
-        return length;
+        return number;
     }
 
     public static void tryUserGuesses(Scanner scanner, String secretCode) {
         int turn = 1;
-        String guess = scanner.nextLine();
+        String guess;
         boolean isGuessRight = false;
 
         do {
